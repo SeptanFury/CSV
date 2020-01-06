@@ -1,0 +1,1428 @@
+name,value,year,lastValue,rank,image,largeDate
+Greg Norman,8.5, 1990.00,8.5,76,null, 1990.00
+Buster Douglas,26.0, 1990.00,26.0,81,null, 1990.00
+Donovan Razor Ruddock,0.0, 1990.00,0.0,2,null,
+Donovan Razor Ruddock,10.2, 1991.00,0.0,76,null, 1991.00
+Monica Seles,0.0, 1990.00,0.0,7,null,
+Monica Seles,0.0, 1991.00,0.0,6,null,
+Monica Seles,8.5, 1992.00,0.0,73,null, 1992.00
+Joe Montana,0.0, 1990.00,0.0,5,null,
+Joe Montana,0.0, 1991.00,0.0,4,null,
+Joe Montana,9.5, 1992.00,0.0,76,null, 1992.00
+Joe Montana,11.5, 1993.00,9.5,73,null, 1993.00
+Jim Courier,0.0, 1990.00,0.0,6,null,
+Jim Courier,0.0, 1991.00,0.0,5,null,
+Jim Courier,9.0, 1992.00,0.0,74,null, 1992.00
+Jim Courier,12.6, 1993.00,9.0,74,null, 1993.00
+Cecil Fielder,0.0, 1990.00,0.0,11,null,
+Cecil Fielder,0.0, 1991.00,0.0,10,null,
+Cecil Fielder,0.0, 1992.00,0.0,7,null,
+Cecil Fielder,12.7, 1993.00,0.0,75,null, 1993.00
+Alain Prost,9.0, 1990.00,9.0,78,null, 1990.00
+Alain Prost,11.0, 1991.00,9.0,77,null, 1991.00
+Alain Prost,0.0, 1992.00,11.0,70,null, 1991.00
+Alain Prost,16.0, 1993.00,0.0,79,null, 1993.00
+Ayrton Senna,10.0, 1990.00,10.0,79,null, 1990.00
+Ayrton Senna,13.0, 1991.00,10.0,78,null, 1991.00
+Ayrton Senna,22.0, 1992.00,13.0,80,null, 1992.00
+Ayrton Senna,18.5, 1993.00,22.0,80,null, 1992.00
+Nigel Mansell,0.0, 1990.00,0.0,3,null,
+Nigel Mansell,9.0, 1991.00,0.0,74,null, 1991.00
+Nigel Mansell,14.5, 1992.00,9.0,79,null, 1992.00
+Nigel Mansell,0.0, 1993.00,14.5,71,null, 1992.00
+Nigel Mansell,11.3, 1994.00,0.0,73,null, 1992.00
+Michael Moorer,0.0, 1990.00,0.0,15,null,
+Michael Moorer,0.0, 1991.00,0.0,14,null,
+Michael Moorer,0.0, 1992.00,0.0,11,null,
+Michael Moorer,0.0, 1993.00,0.0,8,null,
+Michael Moorer,12.1, 1994.00,0.0,76,null, 1994.00
+Gerhard Berger,0.0, 1990.00,0.0,13,null,
+Gerhard Berger,0.0, 1991.00,0.0,12,null,
+Gerhard Berger,0.0, 1992.00,0.0,9,null,
+Gerhard Berger,0.0, 1993.00,0.0,6,null,
+Gerhard Berger,13.5, 1994.00,0.0,77,null, 1994.00
+Jack Nicklaus,8.6, 1990.00,8.6,77,null, 1990.00
+Jack Nicklaus,0.0, 1991.00,8.6,72,null, 1990.00
+Jack Nicklaus,0.0, 1992.00,0.0,69,null, 1990.00
+Jack Nicklaus,0.0, 1993.00,0.0,66,null, 1990.00
+Jack Nicklaus,14.8, 1994.00,0.0,80,null, 1994.00
+Wayne Gretzky,0.0, 1990.00,0.0,14,null,
+Wayne Gretzky,0.0, 1991.00,0.0,13,null,
+Wayne Gretzky,0.0, 1992.00,0.0,10,null,
+Wayne Gretzky,0.0, 1993.00,0.0,7,null,
+Wayne Gretzky,13.5, 1994.00,0.0,78,null, 1994.00
+Wayne Gretzky,14.5, 1995.00,13.5,73,null, 1995.00
+Sugar Ray Leonard,13.0, 1990.00,13.0,80,null, 1990.00
+Sugar Ray Leonard,8.5, 1991.00,13.0,73,null, 1990.00
+Sugar Ray Leonard,9.2, 1992.00,8.5,75,null, 1990.00
+Sugar Ray Leonard,0.0, 1993.00,9.2,68,null, 1990.00
+Sugar Ray Leonard,0.0, 1994.00,0.0,68,null, 1990.00
+Sugar Ray Leonard,15.1, 1995.00,0.0,75,null, 1995.00
+George Foreman,0.0, 1990.00,0.0,1,null,
+George Foreman,14.5, 1991.00,0.0,79,null, 1991.00
+George Foreman,0.0, 1992.00,14.5,71,null, 1991.00
+George Foreman,15.8, 1993.00,0.0,78,null, 1993.00
+George Foreman,0.0, 1994.00,15.8,71,null, 1993.00
+George Foreman,18.0, 1995.00,0.0,77,null, 1995.00
+Riddick Bowe,0.0, 1990.00,0.0,8,null,
+Riddick Bowe,0.0, 1991.00,0.0,7,null,
+Riddick Bowe,0.0, 1992.00,0.0,4,null,
+Riddick Bowe,25.0, 1993.00,0.0,81,null, 1993.00
+Riddick Bowe,0.0, 1994.00,25.0,72,null, 1993.00
+Riddick Bowe,22.2, 1995.00,0.0,79,null, 1993.00
+Deion Sanders,0.0, 1990.00,0.0,16,null,
+Deion Sanders,0.0, 1991.00,0.0,15,null,
+Deion Sanders,0.0, 1992.00,0.0,12,null,
+Deion Sanders,0.0, 1993.00,0.0,9,null,
+Deion Sanders,0.0, 1994.00,0.0,10,null,
+Deion Sanders,22.5, 1995.00,0.0,80,null, 1995.00
+Dennis Rodman,0.0, 1990.00,0.0,19,null,
+Dennis Rodman,0.0, 1991.00,0.0,18,null,
+Dennis Rodman,0.0, 1992.00,0.0,15,null,
+Dennis Rodman,0.0, 1993.00,0.0,12,null,
+Dennis Rodman,0.0, 1994.00,0.0,13,null,
+Dennis Rodman,0.0, 1995.00,0.0,15,null,
+Dennis Rodman,12.9, 1996.00,0.0,73,null, 1996.00
+Emmit Smith,0.0, 1990.00,0.0,18,null,
+Emmit Smith,0.0, 1991.00,0.0,17,null,
+Emmit Smith,0.0, 1992.00,0.0,14,null,
+Emmit Smith,0.0, 1993.00,0.0,11,null,
+Emmit Smith,0.0, 1994.00,0.0,12,null,
+Emmit Smith,0.0, 1995.00,0.0,14,null,
+Emmit Smith,16.5, 1996.00,0.0,78,null, 1996.00
+Joe Sakic,0.0, 1990.00,0.0,24,null,
+Joe Sakic,0.0, 1991.00,0.0,23,null,
+Joe Sakic,0.0, 1992.00,0.0,20,null,
+Joe Sakic,0.0, 1993.00,0.0,17,null,
+Joe Sakic,0.0, 1994.00,0.0,18,null,
+Joe Sakic,0.0, 1995.00,0.0,20,null,
+Joe Sakic,0.0, 1996.00,0.0,22,null,
+Joe Sakic,17.9, 1997.00,0.0,74,null, 1997.00
+Gary Sheffield,0.0, 1990.00,0.0,27,null,
+Gary Sheffield,0.0, 1991.00,0.0,26,null,
+Gary Sheffield,0.0, 1992.00,0.0,23,null,
+Gary Sheffield,0.0, 1993.00,0.0,20,null,
+Gary Sheffield,0.0, 1994.00,0.0,21,null,
+Gary Sheffield,0.0, 1995.00,0.0,23,null,
+Gary Sheffield,0.0, 1996.00,0.0,25,null,
+Gary Sheffield,0.0, 1997.00,0.0,22,null,
+Gary Sheffield,17.2, 1998.00,0.0,73,null, 1998.00
+Arnold Palmer,8.1, 1990.00,8.1,74,null, 1990.00
+Arnold Palmer,9.3, 1991.00,8.1,75,null, 1991.00
+Arnold Palmer,11.1, 1992.00,9.3,78,null, 1992.00
+Arnold Palmer,0.0, 1993.00,11.1,70,null, 1992.00
+Arnold Palmer,13.6, 1994.00,0.0,79,null, 1994.00
+Arnold Palmer,0.0, 1995.00,13.6,71,null, 1994.00
+Arnold Palmer,15.1, 1996.00,0.0,75,null, 1996.00
+Arnold Palmer,0.0, 1997.00,15.1,71,null, 1996.00
+Arnold Palmer,18.1, 1998.00,0.0,74,null, 1998.00
+Patrick Ewing,0.0, 1990.00,0.0,20,null,
+Patrick Ewing,0.0, 1991.00,0.0,19,null,
+Patrick Ewing,0.0, 1992.00,0.0,16,null,
+Patrick Ewing,0.0, 1993.00,0.0,13,null,
+Patrick Ewing,0.0, 1994.00,0.0,14,null,
+Patrick Ewing,0.0, 1995.00,0.0,16,null,
+Patrick Ewing,12.9, 1996.00,0.0,74,null, 1996.00
+Patrick Ewing,0.0, 1997.00,12.9,70,null, 1996.00
+Patrick Ewing,18.3, 1998.00,0.0,75,null, 1998.00
+Sergei Federov,0.0, 1990.00,0.0,26,null,
+Sergei Federov,0.0, 1991.00,0.0,25,null,
+Sergei Federov,0.0, 1992.00,0.0,22,null,
+Sergei Federov,0.0, 1993.00,0.0,19,null,
+Sergei Federov,0.0, 1994.00,0.0,20,null,
+Sergei Federov,0.0, 1995.00,0.0,22,null,
+Sergei Federov,0.0, 1996.00,0.0,24,null,
+Sergei Federov,0.0, 1997.00,0.0,21,null,
+Sergei Federov,29.8, 1998.00,0.0,80,null, 1998.00
+Evander Holyfield,8.1, 1990.00,8.1,75,null, 1990.00
+Evander Holyfield,60.5, 1991.00,8.1,82,null, 1991.00
+Evander Holyfield,28.0, 1992.00,60.5,81,null, 1991.00
+Evander Holyfield,0.0, 1993.00,28.0,72,null, 1991.00
+Evander Holyfield,12.0, 1994.00,0.0,75,null, 1991.00
+Evander Holyfield,0.0, 1995.00,12.0,70,null, 1991.00
+Evander Holyfield,15.5, 1996.00,0.0,77,null, 1991.00
+Evander Holyfield,54.3, 1997.00,15.5,81,null, 1991.00
+Evander Holyfield,0.0, 1998.00,54.3,72,null, 1991.00
+Evander Holyfield,35.5, 1999.00,0.0,78,null, 1991.00
+Dale Earnhardt,0.0, 1990.00,0.0,23,null,
+Dale Earnhardt,0.0, 1991.00,0.0,22,null,
+Dale Earnhardt,0.0, 1992.00,0.0,19,null,
+Dale Earnhardt,0.0, 1993.00,0.0,16,null,
+Dale Earnhardt,0.0, 1994.00,0.0,17,null,
+Dale Earnhardt,0.0, 1995.00,0.0,19,null,
+Dale Earnhardt,0.0, 1996.00,0.0,21,null,
+Dale Earnhardt,19.1, 1997.00,0.0,75,null, 1997.00
+Dale Earnhardt,24.1, 1998.00,19.1,78,null, 1998.00
+Dale Earnhardt,26.5, 1999.00,24.1,74,null, 1999.00
+Dale Earnhardt,24.5, 2000.00,26.5,77,null, 1999.00
+Dale Earnhardt,24.5, 2001.00,24.5,77,null, 1999.00
+previous year,0.0, 1990.00,0.0,29,null,
+previous year,0.0, 1991.00,0.0,28,null,
+previous year,0.0, 1992.00,0.0,25,null,
+previous year,0.0, 1993.00,0.0,22,null,
+previous year,0.0, 1994.00,0.0,23,null,
+previous year,0.0, 1995.00,0.0,25,null,
+previous year,0.0, 1996.00,0.0,27,null,
+previous year,0.0, 1997.00,0.0,24,null,
+previous year,0.0, 1998.00,0.0,23,null,
+previous year,0.0, 1999.00,0.0,27,null,
+previous year,0.0, 2000.00,0.0,27,null,
+previous year,0.0, 2001.00,0.0,27,null,
+previous year,0.0, 2002.00,0.0,28,null,
+Jeff Gordon,0.0, 1990.00,0.0,32,null,
+Jeff Gordon,0.0, 1991.00,0.0,31,null,
+Jeff Gordon,0.0, 1992.00,0.0,28,null,
+Jeff Gordon,0.0, 1993.00,0.0,25,null,
+Jeff Gordon,0.0, 1994.00,0.0,26,null,
+Jeff Gordon,0.0, 1995.00,0.0,28,null,
+Jeff Gordon,0.0, 1996.00,0.0,30,null,
+Jeff Gordon,0.0, 1997.00,0.0,27,null,
+Jeff Gordon,0.0, 1998.00,0.0,26,null,
+Jeff Gordon,0.0, 1999.00,0.0,30,null,
+Jeff Gordon,0.0, 2000.00,0.0,30,null,
+Jeff Gordon,0.0, 2001.00,0.0,30,null,
+Jeff Gordon,20.0, 2002.00,0.0,73,null, 2002.00
+Mike Tyson,28.6, 1990.00,28.6,82,null, 1990.00
+Mike Tyson,31.5, 1991.00,28.6,81,null, 1991.00
+Mike Tyson,0.0, 1992.00,31.5,72,null, 1991.00
+Mike Tyson,0.0, 1993.00,0.0,67,null, 1991.00
+Mike Tyson,0.0, 1994.00,0.0,67,null, 1991.00
+Mike Tyson,40.0, 1995.00,0.0,81,null, 1995.00
+Mike Tyson,75.0, 1996.00,40.0,82,null, 1996.00
+Mike Tyson,27.0, 1997.00,75.0,78,null, 1996.00
+Mike Tyson,0.0, 1998.00,27.0,71,null, 1996.00
+Mike Tyson,33.0, 1999.00,0.0,77,null, 1996.00
+Mike Tyson,48.0, 2000.00,33.0,80,null, 1996.00
+Mike Tyson,48.0, 2001.00,48.0,80,null, 1996.00
+Mike Tyson,23.0, 2002.00,48.0,76,null, 1996.00
+Lennox Lewis,0.0, 1990.00,0.0,10,null,
+Lennox Lewis,0.0, 1991.00,0.0,9,null,
+Lennox Lewis,0.0, 1992.00,0.0,6,null,
+Lennox Lewis,15.0, 1993.00,0.0,76,null, 1993.00
+Lennox Lewis,0.0, 1994.00,15.0,69,null, 1993.00
+Lennox Lewis,0.0, 1995.00,0.0,69,null, 1993.00
+Lennox Lewis,0.0, 1996.00,0.0,71,null, 1993.00
+Lennox Lewis,0.0, 1997.00,0.0,68,null, 1993.00
+Lennox Lewis,0.0, 1998.00,0.0,67,null, 1993.00
+Lennox Lewis,29.0, 1999.00,0.0,75,null, 1999.00
+Lennox Lewis,23.0, 2000.00,29.0,74,null, 1999.00
+Lennox Lewis,23.0, 2001.00,23.0,74,null, 1999.00
+Lennox Lewis,28.0, 2002.00,23.0,79,null, 1999.00
+Jacques Villeneuve,0.0, 1990.00,0.0,31,null,
+Jacques Villeneuve,0.0, 1991.00,0.0,30,null,
+Jacques Villeneuve,0.0, 1992.00,0.0,27,null,
+Jacques Villeneuve,0.0, 1993.00,0.0,24,null,
+Jacques Villeneuve,0.0, 1994.00,0.0,25,null,
+Jacques Villeneuve,0.0, 1995.00,0.0,27,null,
+Jacques Villeneuve,0.0, 1996.00,0.0,29,null,
+Jacques Villeneuve,0.0, 1997.00,0.0,26,null,
+Jacques Villeneuve,0.0, 1998.00,0.0,25,null,
+Jacques Villeneuve,0.0, 1999.00,0.0,29,null,
+Jacques Villeneuve,0.0, 2000.00,0.0,29,null,
+Jacques Villeneuve,0.0, 2001.00,0.0,29,null,
+Jacques Villeneuve,20.0, 2002.00,0.0,72,null, 2002.00
+Jacques Villeneuve,23.0, 2003.00,20.0,73,null, 2003.00
+Grant Hill,0.0, 1990.00,0.0,25,null,
+Grant Hill,0.0, 1991.00,0.0,24,null,
+Grant Hill,0.0, 1992.00,0.0,21,null,
+Grant Hill,0.0, 1993.00,0.0,18,null,
+Grant Hill,0.0, 1994.00,0.0,19,null,
+Grant Hill,0.0, 1995.00,0.0,21,null,
+Grant Hill,0.0, 1996.00,0.0,23,null,
+Grant Hill,17.0, 1997.00,0.0,73,null, 1997.00
+Grant Hill,21.6, 1998.00,17.0,77,null, 1998.00
+Grant Hill,23.0, 1999.00,21.6,73,null, 1999.00
+Grant Hill,26.0, 2000.00,23.0,78,null, 2000.00
+Grant Hill,26.0, 2001.00,26.0,78,null, 2000.00
+Grant Hill,24.0, 2002.00,26.0,78,null, 2000.00
+Grant Hill,25.5, 2003.00,24.0,75,null, 2000.00
+Shaq O'Neal,0.0, 1990.00,0.0,12,null,
+Shaq O'Neal,0.0, 1991.00,0.0,11,null,
+Shaq O'Neal,0.0, 1992.00,0.0,8,null,
+Shaq O'Neal,0.0, 1993.00,0.0,5,null,
+Shaq O'Neal,16.7, 1994.00,0.0,81,null, 1994.00
+Shaq O'Neal,0.0, 1995.00,16.7,72,null, 1994.00
+Shaq O'Neal,0.0, 1996.00,0.0,72,null, 1994.00
+Shaq O'Neal,0.0, 1997.00,0.0,69,null, 1994.00
+Shaq O'Neal,0.0, 1998.00,0.0,68,null, 1994.00
+Shaq O'Neal,31.0, 1999.00,0.0,76,null, 1999.00
+Shaq O'Neal,24.0, 2000.00,31.0,76,null, 1999.00
+Shaq O'Neal,24.0, 2001.00,24.0,76,null, 1999.00
+Shaq O'Neal,0.0, 2002.00,24.0,71,null, 1999.00
+Shaq O'Neal,30.5, 2003.00,0.0,79,null, 1999.00
+Andre Agassi,0.0, 1990.00,0.0,4,null,
+Andre Agassi,0.0, 1991.00,0.0,3,null,
+Andre Agassi,11.0, 1992.00,0.0,77,null, 1992.00
+Andre Agassi,0.0, 1993.00,11.0,69,null, 1992.00
+Andre Agassi,11.4, 1994.00,0.0,74,null, 1994.00
+Andre Agassi,16.0, 1995.00,11.4,76,null, 1995.00
+Andre Agassi,15.2, 1996.00,16.0,76,null, 1995.00
+Andre Agassi,0.0, 1997.00,15.2,72,null, 1995.00
+Andre Agassi,0.0, 1998.00,0.0,69,null, 1995.00
+Andre Agassi,0.0, 1999.00,0.0,71,null, 1995.00
+Andre Agassi,0.0, 2000.00,0.0,71,null, 1995.00
+Andre Agassi,0.0, 2001.00,0.0,71,null, 1995.00
+Andre Agassi,0.0, 2002.00,0.0,69,null, 1995.00
+Andre Agassi,24.0, 2003.00,0.0,74,null, 2003.00
+Andre Agassi,28.2, 2004.00,24.0,76,null, 2004.00
+Kevin Garnett,0.0, 1990.00,0.0,28,null,
+Kevin Garnett,0.0, 1991.00,0.0,27,null,
+Kevin Garnett,0.0, 1992.00,0.0,24,null,
+Kevin Garnett,0.0, 1993.00,0.0,21,null,
+Kevin Garnett,0.0, 1994.00,0.0,22,null,
+Kevin Garnett,0.0, 1995.00,0.0,24,null,
+Kevin Garnett,0.0, 1996.00,0.0,26,null,
+Kevin Garnett,0.0, 1997.00,0.0,23,null,
+Kevin Garnett,0.0, 1998.00,0.0,22,null,
+Kevin Garnett,0.0, 1999.00,0.0,26,null,
+Kevin Garnett,21.0, 2000.00,0.0,73,null, 2000.00
+Kevin Garnett,21.0, 2001.00,21.0,73,null, 2000.00
+Kevin Garnett,23.0, 2002.00,21.0,75,null, 2002.00
+Kevin Garnett,28.0, 2003.00,23.0,77,null, 2003.00
+Kevin Garnett,29.7, 2004.00,28.0,77,null, 2004.00
+Lance Armstrong,0.0, 1990.00,0.0,37,null,
+Lance Armstrong,0.0, 1991.00,0.0,36,null,
+Lance Armstrong,0.0, 1992.00,0.0,33,null,
+Lance Armstrong,0.0, 1993.00,0.0,30,null,
+Lance Armstrong,0.0, 1994.00,0.0,31,null,
+Lance Armstrong,0.0, 1995.00,0.0,33,null,
+Lance Armstrong,0.0, 1996.00,0.0,35,null,
+Lance Armstrong,0.0, 1997.00,0.0,32,null,
+Lance Armstrong,0.0, 1998.00,0.0,31,null,
+Lance Armstrong,0.0, 1999.00,0.0,35,null,
+Lance Armstrong,0.0, 2000.00,0.0,35,null,
+Lance Armstrong,0.0, 2001.00,0.0,35,null,
+Lance Armstrong,0.0, 2002.00,0.0,33,null,
+Lance Armstrong,0.0, 2003.00,0.0,35,null,
+Lance Armstrong,0.0, 2004.00,0.0,36,null,
+Lance Armstrong,28.0, 2005.00,0.0,73,null, 2005.00
+Michael Vick,0.0, 1990.00,0.0,36,null,
+Michael Vick,0.0, 1991.00,0.0,35,null,
+Michael Vick,0.0, 1992.00,0.0,32,null,
+Michael Vick,0.0, 1993.00,0.0,29,null,
+Michael Vick,0.0, 1994.00,0.0,30,null,
+Michael Vick,0.0, 1995.00,0.0,32,null,
+Michael Vick,0.0, 1996.00,0.0,34,null,
+Michael Vick,0.0, 1997.00,0.0,31,null,
+Michael Vick,0.0, 1998.00,0.0,30,null,
+Michael Vick,0.0, 1999.00,0.0,34,null,
+Michael Vick,0.0, 2000.00,0.0,34,null,
+Michael Vick,0.0, 2001.00,0.0,34,null,
+Michael Vick,0.0, 2002.00,0.0,32,null,
+Michael Vick,0.0, 2003.00,0.0,34,null,
+Michael Vick,0.0, 2004.00,0.0,35,null,
+Michael Vick,37.5, 2005.00,0.0,79,null, 2005.00
+Tom Brady,0.0, 1990.00,0.0,41,null,
+Tom Brady,0.0, 1991.00,0.0,40,null,
+Tom Brady,0.0, 1992.00,0.0,37,null,
+Tom Brady,0.0, 1993.00,0.0,34,null,
+Tom Brady,0.0, 1994.00,0.0,35,null,
+Tom Brady,0.0, 1995.00,0.0,37,null,
+Tom Brady,0.0, 1996.00,0.0,39,null,
+Tom Brady,0.0, 1997.00,0.0,36,null,
+Tom Brady,0.0, 1998.00,0.0,35,null,
+Tom Brady,0.0, 1999.00,0.0,39,null,
+Tom Brady,0.0, 2000.00,0.0,39,null,
+Tom Brady,0.0, 2001.00,0.0,39,null,
+Tom Brady,0.0, 2002.00,0.0,37,null,
+Tom Brady,0.0, 2003.00,0.0,39,null,
+Tom Brady,0.0, 2004.00,0.0,40,null,
+Tom Brady,0.0, 2005.00,0.0,39,null,
+Tom Brady,29.0, 2006.00,0.0,73,null, 2006.00
+Muhammad Ali,0.0, 1990.00,0.0,39,null,
+Muhammad Ali,0.0, 1991.00,0.0,38,null,
+Muhammad Ali,0.0, 1992.00,0.0,35,null,
+Muhammad Ali,0.0, 1993.00,0.0,32,null,
+Muhammad Ali,0.0, 1994.00,0.0,33,null,
+Muhammad Ali,0.0, 1995.00,0.0,35,null,
+Muhammad Ali,0.0, 1996.00,0.0,37,null,
+Muhammad Ali,0.0, 1997.00,0.0,34,null,
+Muhammad Ali,0.0, 1998.00,0.0,33,null,
+Muhammad Ali,0.0, 1999.00,0.0,37,null,
+Muhammad Ali,0.0, 2000.00,0.0,37,null,
+Muhammad Ali,0.0, 2001.00,0.0,37,null,
+Muhammad Ali,0.0, 2002.00,0.0,35,null,
+Muhammad Ali,0.0, 2003.00,0.0,37,null,
+Muhammad Ali,0.0, 2004.00,0.0,38,null,
+Muhammad Ali,0.0, 2005.00,0.0,37,null,
+Muhammad Ali,55.0, 2006.00,0.0,80,null, 2006.00
+Shaquille O'Neal,0.0, 1990.00,0.0,9,null,
+Shaquille O'Neal,0.0, 1991.00,0.0,8,null,
+Shaquille O'Neal,0.0, 1992.00,0.0,5,null,
+Shaquille O'Neal,15.2, 1993.00,0.0,77,null, 1993.00
+Shaquille O'Neal,0.0, 1994.00,15.2,70,null, 1993.00
+Shaquille O'Neal,21.9, 1995.00,0.0,78,null, 1995.00
+Shaquille O'Neal,24.4, 1996.00,21.9,79,null, 1996.00
+Shaquille O'Neal,25.4, 1997.00,24.4,76,null, 1997.00
+Shaquille O'Neal,0.0, 1998.00,25.4,70,null, 1997.00
+Shaquille O'Neal,0.0, 1999.00,0.0,72,null, 1997.00
+Shaquille O'Neal,0.0, 2000.00,0.0,72,null, 1997.00
+Shaquille O'Neal,0.0, 2001.00,0.0,72,null, 1997.00
+Shaquille O'Neal,24.0, 2002.00,0.0,77,null, 1997.00
+Shaquille O'Neal,0.0, 2003.00,24.0,72,null, 1997.00
+Shaquille O'Neal,31.9, 2004.00,0.0,78,null, 2004.00
+Shaquille O'Neal,33.4, 2005.00,31.9,78,null, 2005.00
+Shaquille O'Neal,30.0, 2006.00,33.4,76,null, 2005.00
+Shaquille O'Neal,32.0, 2007.00,30.0,75,null, 2005.00
+Oscar De La Hoya,0.0, 1990.00,0.0,21,null,
+Oscar De La Hoya,0.0, 1991.00,0.0,20,null,
+Oscar De La Hoya,0.0, 1992.00,0.0,17,null,
+Oscar De La Hoya,0.0, 1993.00,0.0,14,null,
+Oscar De La Hoya,0.0, 1994.00,0.0,15,null,
+Oscar De La Hoya,0.0, 1995.00,0.0,17,null,
+Oscar De La Hoya,0.0, 1996.00,0.0,19,null,
+Oscar De La Hoya,38.0, 1997.00,0.0,80,null, 1997.00
+Oscar De La Hoya,18.5, 1998.00,38.0,76,null, 1997.00
+Oscar De La Hoya,43.5, 1999.00,18.5,80,null, 1999.00
+Oscar De La Hoya,23.0, 2000.00,43.5,75,null, 1999.00
+Oscar De La Hoya,23.0, 2001.00,23.0,75,null, 1999.00
+Oscar De La Hoya,0.0, 2002.00,23.0,70,null, 1999.00
+Oscar De La Hoya,30.0, 2003.00,0.0,78,null, 1999.00
+Oscar De La Hoya,0.0, 2004.00,30.0,72,null, 1999.00
+Oscar De La Hoya,38.0, 2005.00,0.0,80,null, 1999.00
+Oscar De La Hoya,0.0, 2006.00,38.0,72,null, 1999.00
+Oscar De La Hoya,43.0, 2007.00,0.0,81,null, 1999.00
+Ronaldinho,0.0, 1990.00,0.0,43,null,
+Ronaldinho,0.0, 1991.00,0.0,42,null,
+Ronaldinho,0.0, 1992.00,0.0,39,null,
+Ronaldinho,0.0, 1993.00,0.0,36,null,
+Ronaldinho,0.0, 1994.00,0.0,37,null,
+Ronaldinho,0.0, 1995.00,0.0,39,null,
+Ronaldinho,0.0, 1996.00,0.0,41,null,
+Ronaldinho,0.0, 1997.00,0.0,38,null,
+Ronaldinho,0.0, 1998.00,0.0,37,null,
+Ronaldinho,0.0, 1999.00,0.0,41,null,
+Ronaldinho,0.0, 2000.00,0.0,41,null,
+Ronaldinho,0.0, 2001.00,0.0,41,null,
+Ronaldinho,0.0, 2002.00,0.0,39,null,
+Ronaldinho,0.0, 2003.00,0.0,41,null,
+Ronaldinho,0.0, 2004.00,0.0,42,null,
+Ronaldinho,0.0, 2005.00,0.0,41,null,
+Ronaldinho,0.0, 2006.00,0.0,40,null,
+Ronaldinho,31.0, 2007.00,0.0,73,null, 2007.00
+Ronaldinho,37.0, 2008.00,31.0,75,null, 2008.00
+Dale Earnhardt Jr.,0.0, 1990.00,0.0,47,null,
+Dale Earnhardt Jr.,0.0, 1991.00,0.0,46,null,
+Dale Earnhardt Jr.,0.0, 1992.00,0.0,43,null,
+Dale Earnhardt Jr.,0.0, 1993.00,0.0,40,null,
+Dale Earnhardt Jr.,0.0, 1994.00,0.0,41,null,
+Dale Earnhardt Jr.,0.0, 1995.00,0.0,43,null,
+Dale Earnhardt Jr.,0.0, 1996.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 1997.00,0.0,42,null,
+Dale Earnhardt Jr.,0.0, 1998.00,0.0,41,null,
+Dale Earnhardt Jr.,0.0, 1999.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 2000.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 2001.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 2002.00,0.0,43,null,
+Dale Earnhardt Jr.,0.0, 2003.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 2004.00,0.0,46,null,
+Dale Earnhardt Jr.,0.0, 2005.00,0.0,45,null,
+Dale Earnhardt Jr.,0.0, 2006.00,0.0,44,null,
+Dale Earnhardt Jr.,0.0, 2007.00,0.0,44,null,
+Dale Earnhardt Jr.,0.0, 2008.00,0.0,44,null,
+Dale Earnhardt Jr.,34.0, 2009.00,0.0,73,null, 2009.00
+Valentino Rossi,0.0, 1990.00,0.0,38,null,
+Valentino Rossi,0.0, 1991.00,0.0,37,null,
+Valentino Rossi,0.0, 1992.00,0.0,34,null,
+Valentino Rossi,0.0, 1993.00,0.0,31,null,
+Valentino Rossi,0.0, 1994.00,0.0,32,null,
+Valentino Rossi,0.0, 1995.00,0.0,34,null,
+Valentino Rossi,0.0, 1996.00,0.0,36,null,
+Valentino Rossi,0.0, 1997.00,0.0,33,null,
+Valentino Rossi,0.0, 1998.00,0.0,32,null,
+Valentino Rossi,0.0, 1999.00,0.0,36,null,
+Valentino Rossi,0.0, 2000.00,0.0,36,null,
+Valentino Rossi,0.0, 2001.00,0.0,36,null,
+Valentino Rossi,0.0, 2002.00,0.0,34,null,
+Valentino Rossi,0.0, 2003.00,0.0,36,null,
+Valentino Rossi,0.0, 2004.00,0.0,37,null,
+Valentino Rossi,28.0, 2005.00,0.0,74,null, 2005.00
+Valentino Rossi,30.0, 2006.00,28.0,75,null, 2006.00
+Valentino Rossi,0.0, 2007.00,30.0,72,null, 2006.00
+Valentino Rossi,35.0, 2008.00,0.0,74,null, 2008.00
+Valentino Rossi,35.0, 2009.00,35.0,74,null, 2008.00
+Kimi Raikkonen,0.0, 1990.00,0.0,42,null,
+Kimi Raikkonen,0.0, 1991.00,0.0,41,null,
+Kimi Raikkonen,0.0, 1992.00,0.0,38,null,
+Kimi Raikkonen,0.0, 1993.00,0.0,35,null,
+Kimi Raikkonen,0.0, 1994.00,0.0,36,null,
+Kimi Raikkonen,0.0, 1995.00,0.0,38,null,
+Kimi Raikkonen,0.0, 1996.00,0.0,40,null,
+Kimi Raikkonen,0.0, 1997.00,0.0,37,null,
+Kimi Raikkonen,0.0, 1998.00,0.0,36,null,
+Kimi Raikkonen,0.0, 1999.00,0.0,40,null,
+Kimi Raikkonen,0.0, 2000.00,0.0,40,null,
+Kimi Raikkonen,0.0, 2001.00,0.0,40,null,
+Kimi Raikkonen,0.0, 2002.00,0.0,38,null,
+Kimi Raikkonen,0.0, 2003.00,0.0,40,null,
+Kimi Raikkonen,0.0, 2004.00,0.0,41,null,
+Kimi Raikkonen,0.0, 2005.00,0.0,40,null,
+Kimi Raikkonen,0.0, 2006.00,0.0,39,null,
+Kimi Raikkonen,40.0, 2007.00,0.0,79,null, 2007.00
+Kimi Raikkonen,44.0, 2008.00,40.0,78,null, 2008.00
+Kimi Raikkonen,45.0, 2009.00,44.0,80,null, 2009.00
+Michael Jordan,8.1, 1990.00,8.1,73,null, 1990.00
+Michael Jordan,16.0, 1991.00,8.1,80,null, 1991.00
+Michael Jordan,35.9, 1992.00,16.0,82,null, 1992.00
+Michael Jordan,36.0, 1993.00,35.9,82,null, 1993.00
+Michael Jordan,30.01, 1994.00,36.0,82,null, 1993.00
+Michael Jordan,43.9, 1995.00,30.01,82,null, 1995.00
+Michael Jordan,52.6, 1996.00,43.9,81,null, 1996.00
+Michael Jordan,78.3, 1997.00,52.6,82,null, 1997.00
+Michael Jordan,69.0, 1998.00,78.3,82,null, 1997.00
+Michael Jordan,40.0, 1999.00,69.0,79,null, 1997.00
+Michael Jordan,37.0, 2000.00,40.0,79,null, 1997.00
+Michael Jordan,37.0, 2001.00,37.0,79,null, 1997.00
+Michael Jordan,36.0, 2002.00,37.0,80,null, 1997.00
+Michael Jordan,35.0, 2003.00,36.0,80,null, 1997.00
+Michael Jordan,35.0, 2004.00,35.0,79,null, 1997.00
+Michael Jordan,33.0, 2005.00,35.0,77,null, 1997.00
+Michael Jordan,32.0, 2006.00,33.0,78,null, 1997.00
+Michael Jordan,31.0, 2007.00,32.0,74,null, 1997.00
+Michael Jordan,45.0, 2008.00,31.0,79,null, 1997.00
+Michael Jordan,45.0, 2009.00,45.0,81,null, 1997.00
+Terrell Suggs,0.0, 1990.00,0.0,50,null,
+Terrell Suggs,0.0, 1991.00,0.0,49,null,
+Terrell Suggs,0.0, 1992.00,0.0,46,null,
+Terrell Suggs,0.0, 1993.00,0.0,43,null,
+Terrell Suggs,0.0, 1994.00,0.0,44,null,
+Terrell Suggs,0.0, 1995.00,0.0,46,null,
+Terrell Suggs,0.0, 1996.00,0.0,48,null,
+Terrell Suggs,0.0, 1997.00,0.0,45,null,
+Terrell Suggs,0.0, 1998.00,0.0,44,null,
+Terrell Suggs,0.0, 1999.00,0.0,48,null,
+Terrell Suggs,0.0, 2000.00,0.0,48,null,
+Terrell Suggs,0.0, 2001.00,0.0,48,null,
+Terrell Suggs,0.0, 2002.00,0.0,46,null,
+Terrell Suggs,0.0, 2003.00,0.0,48,null,
+Terrell Suggs,0.0, 2004.00,0.0,49,null,
+Terrell Suggs,0.0, 2005.00,0.0,48,null,
+Terrell Suggs,0.0, 2006.00,0.0,47,null,
+Terrell Suggs,0.0, 2007.00,0.0,47,null,
+Terrell Suggs,0.0, 2008.00,0.0,47,null,
+Terrell Suggs,0.0, 2009.00,0.0,46,null,
+Terrell Suggs,38.3, 2010.00,0.0,73,null, 2010.00
+Eli Manning,0.0, 1990.00,0.0,49,null,
+Eli Manning,0.0, 1991.00,0.0,48,null,
+Eli Manning,0.0, 1992.00,0.0,45,null,
+Eli Manning,0.0, 1993.00,0.0,42,null,
+Eli Manning,0.0, 1994.00,0.0,43,null,
+Eli Manning,0.0, 1995.00,0.0,45,null,
+Eli Manning,0.0, 1996.00,0.0,47,null,
+Eli Manning,0.0, 1997.00,0.0,44,null,
+Eli Manning,0.0, 1998.00,0.0,43,null,
+Eli Manning,0.0, 1999.00,0.0,47,null,
+Eli Manning,0.0, 2000.00,0.0,47,null,
+Eli Manning,0.0, 2001.00,0.0,47,null,
+Eli Manning,0.0, 2002.00,0.0,45,null,
+Eli Manning,0.0, 2003.00,0.0,47,null,
+Eli Manning,0.0, 2004.00,0.0,48,null,
+Eli Manning,0.0, 2005.00,0.0,47,null,
+Eli Manning,0.0, 2006.00,0.0,46,null,
+Eli Manning,0.0, 2007.00,0.0,46,null,
+Eli Manning,0.0, 2008.00,0.0,46,null,
+Eli Manning,0.0, 2009.00,0.0,45,null,
+Eli Manning,39.9, 2010.00,0.0,74,null, 2010.00
+Michael Schumacher,0.0, 1990.00,0.0,17,null,
+Michael Schumacher,0.0, 1991.00,0.0,16,null,
+Michael Schumacher,0.0, 1992.00,0.0,13,null,
+Michael Schumacher,0.0, 1993.00,0.0,10,null,
+Michael Schumacher,0.0, 1994.00,0.0,11,null,
+Michael Schumacher,15.0, 1995.00,0.0,74,null, 1995.00
+Michael Schumacher,33.0, 1996.00,15.0,80,null, 1996.00
+Michael Schumacher,35.0, 1997.00,33.0,79,null, 1997.00
+Michael Schumacher,38.0, 1998.00,35.0,81,null, 1998.00
+Michael Schumacher,49.0, 1999.00,38.0,82,null, 1999.00
+Michael Schumacher,59.0, 2000.00,49.0,82,null, 2000.00
+Michael Schumacher,59.0, 2001.00,59.0,82,null, 2000.00
+Michael Schumacher,67.0, 2002.00,59.0,81,null, 2002.00
+Michael Schumacher,75.0, 2003.00,67.0,81,null, 2003.00
+Michael Schumacher,80.0, 2004.00,75.0,81,null, 2004.00
+Michael Schumacher,60.0, 2005.00,80.0,81,null, 2004.00
+Michael Schumacher,58.0, 2006.00,60.0,81,null, 2004.00
+Michael Schumacher,36.0, 2007.00,58.0,78,null, 2004.00
+Michael Schumacher,0.0, 2008.00,36.0,72,null, 2004.00
+Michael Schumacher,0.0, 2009.00,0.0,71,null, 2004.00
+Michael Schumacher,0.0, 2010.00,0.0,72,null, 2004.00
+Michael Schumacher,34.0, 2011.00,0.0,74,null, 2004.00
+Alex Rodriguez,0.0, 1990.00,0.0,33,null,
+Alex Rodriguez,0.0, 1991.00,0.0,32,null,
+Alex Rodriguez,0.0, 1992.00,0.0,29,null,
+Alex Rodriguez,0.0, 1993.00,0.0,26,null,
+Alex Rodriguez,0.0, 1994.00,0.0,27,null,
+Alex Rodriguez,0.0, 1995.00,0.0,29,null,
+Alex Rodriguez,0.0, 1996.00,0.0,31,null,
+Alex Rodriguez,0.0, 1997.00,0.0,28,null,
+Alex Rodriguez,0.0, 1998.00,0.0,27,null,
+Alex Rodriguez,0.0, 1999.00,0.0,31,null,
+Alex Rodriguez,0.0, 2000.00,0.0,31,null,
+Alex Rodriguez,0.0, 2001.00,0.0,31,null,
+Alex Rodriguez,0.0, 2002.00,0.0,29,null,
+Alex Rodriguez,26.0, 2003.00,0.0,76,null, 2003.00
+Alex Rodriguez,26.2, 2004.00,26.0,74,null, 2004.00
+Alex Rodriguez,0.0, 2005.00,26.2,71,null, 2004.00
+Alex Rodriguez,29.0, 2006.00,0.0,74,null, 2006.00
+Alex Rodriguez,0.0, 2007.00,29.0,71,null, 2006.00
+Alex Rodriguez,0.0, 2008.00,0.0,71,null, 2006.00
+Alex Rodriguez,0.0, 2009.00,0.0,70,null, 2006.00
+Alex Rodriguez,0.0, 2010.00,0.0,71,null, 2006.00
+Alex Rodriguez,35.0, 2011.00,0.0,75,null, 2011.00
+Lebron James,0.0, 1990.00,0.0,51,null,
+Lebron James,0.0, 1991.00,0.0,50,null,
+Lebron James,0.0, 1992.00,0.0,47,null,
+Lebron James,0.0, 1993.00,0.0,44,null,
+Lebron James,0.0, 1994.00,0.0,45,null,
+Lebron James,0.0, 1995.00,0.0,47,null,
+Lebron James,0.0, 1996.00,0.0,49,null,
+Lebron James,0.0, 1997.00,0.0,46,null,
+Lebron James,0.0, 1998.00,0.0,45,null,
+Lebron James,0.0, 1999.00,0.0,49,null,
+Lebron James,0.0, 2000.00,0.0,49,null,
+Lebron James,0.0, 2001.00,0.0,49,null,
+Lebron James,0.0, 2002.00,0.0,47,null,
+Lebron James,0.0, 2003.00,0.0,49,null,
+Lebron James,0.0, 2004.00,0.0,50,null,
+Lebron James,0.0, 2005.00,0.0,49,null,
+Lebron James,0.0, 2006.00,0.0,48,null,
+Lebron James,0.0, 2007.00,0.0,48,null,
+Lebron James,0.0, 2008.00,0.0,48,null,
+Lebron James,0.0, 2009.00,0.0,47,null,
+Lebron James,0.0, 2010.00,0.0,48,null,
+Lebron James,48.0, 2011.00,0.0,80,null, 2011.00
+Peyton Manning,0.0, 1990.00,0.0,34,null,
+Peyton Manning,0.0, 1991.00,0.0,33,null,
+Peyton Manning,0.0, 1992.00,0.0,30,null,
+Peyton Manning,0.0, 1993.00,0.0,27,null,
+Peyton Manning,0.0, 1994.00,0.0,28,null,
+Peyton Manning,0.0, 1995.00,0.0,30,null,
+Peyton Manning,0.0, 1996.00,0.0,32,null,
+Peyton Manning,0.0, 1997.00,0.0,29,null,
+Peyton Manning,0.0, 1998.00,0.0,28,null,
+Peyton Manning,0.0, 1999.00,0.0,32,null,
+Peyton Manning,0.0, 2000.00,0.0,32,null,
+Peyton Manning,0.0, 2001.00,0.0,32,null,
+Peyton Manning,0.0, 2002.00,0.0,30,null,
+Peyton Manning,0.0, 2003.00,0.0,32,null,
+Peyton Manning,42.0, 2004.00,0.0,80,null, 2004.00
+Peyton Manning,0.0, 2005.00,42.0,72,null, 2004.00
+Peyton Manning,0.0, 2006.00,0.0,70,null, 2004.00
+Peyton Manning,0.0, 2007.00,0.0,70,null, 2004.00
+Peyton Manning,0.0, 2008.00,0.0,70,null, 2004.00
+Peyton Manning,0.0, 2009.00,0.0,69,null, 2004.00
+Peyton Manning,0.0, 2010.00,0.0,70,null, 2004.00
+Peyton Manning,0.0, 2011.00,0.0,69,null, 2004.00
+Peyton Manning,42.4, 2012.00,0.0,73,null, 2012.00
+David Beckham,0.0, 1990.00,0.0,35,null,
+David Beckham,0.0, 1991.00,0.0,34,null,
+David Beckham,0.0, 1992.00,0.0,31,null,
+David Beckham,0.0, 1993.00,0.0,28,null,
+David Beckham,0.0, 1994.00,0.0,29,null,
+David Beckham,0.0, 1995.00,0.0,31,null,
+David Beckham,0.0, 1996.00,0.0,33,null,
+David Beckham,0.0, 1997.00,0.0,30,null,
+David Beckham,0.0, 1998.00,0.0,29,null,
+David Beckham,0.0, 1999.00,0.0,33,null,
+David Beckham,0.0, 2000.00,0.0,33,null,
+David Beckham,0.0, 2001.00,0.0,33,null,
+David Beckham,0.0, 2002.00,0.0,31,null,
+David Beckham,0.0, 2003.00,0.0,33,null,
+David Beckham,28.0, 2004.00,0.0,75,null, 2004.00
+David Beckham,32.5, 2005.00,28.0,76,null, 2005.00
+David Beckham,0.0, 2006.00,32.5,71,null, 2005.00
+David Beckham,33.0, 2007.00,0.0,76,null, 2007.00
+David Beckham,50.0, 2008.00,33.0,81,null, 2008.00
+David Beckham,42.0, 2009.00,50.0,78,null, 2008.00
+David Beckham,43.7, 2010.00,42.0,78,null, 2008.00
+David Beckham,40.0, 2011.00,43.7,77,null, 2008.00
+David Beckham,46.0, 2012.00,40.0,75,null, 2008.00
+David Beckham,47.2, 2013.00,46.0,75,null, 2008.00
+Drew Brees,0.0, 1990.00,0.0,55,null,
+Drew Brees,0.0, 1991.00,0.0,54,null,
+Drew Brees,0.0, 1992.00,0.0,51,null,
+Drew Brees,0.0, 1993.00,0.0,48,null,
+Drew Brees,0.0, 1994.00,0.0,49,null,
+Drew Brees,0.0, 1995.00,0.0,51,null,
+Drew Brees,0.0, 1996.00,0.0,53,null,
+Drew Brees,0.0, 1997.00,0.0,50,null,
+Drew Brees,0.0, 1998.00,0.0,49,null,
+Drew Brees,0.0, 1999.00,0.0,53,null,
+Drew Brees,0.0, 2000.00,0.0,53,null,
+Drew Brees,0.0, 2001.00,0.0,53,null,
+Drew Brees,0.0, 2002.00,0.0,51,null,
+Drew Brees,0.0, 2003.00,0.0,53,null,
+Drew Brees,0.0, 2004.00,0.0,54,null,
+Drew Brees,0.0, 2005.00,0.0,53,null,
+Drew Brees,0.0, 2006.00,0.0,52,null,
+Drew Brees,0.0, 2007.00,0.0,52,null,
+Drew Brees,0.0, 2008.00,0.0,52,null,
+Drew Brees,0.0, 2009.00,0.0,51,null,
+Drew Brees,0.0, 2010.00,0.0,52,null,
+Drew Brees,0.0, 2011.00,0.0,51,null,
+Drew Brees,0.0, 2012.00,0.0,53,null,
+Drew Brees,51.0, 2013.00,0.0,78,null, 2013.00
+Rafael Nadal,0.0, 1990.00,0.0,57,null,
+Rafael Nadal,0.0, 1991.00,0.0,56,null,
+Rafael Nadal,0.0, 1992.00,0.0,53,null,
+Rafael Nadal,0.0, 1993.00,0.0,50,null,
+Rafael Nadal,0.0, 1994.00,0.0,51,null,
+Rafael Nadal,0.0, 1995.00,0.0,53,null,
+Rafael Nadal,0.0, 1996.00,0.0,55,null,
+Rafael Nadal,0.0, 1997.00,0.0,52,null,
+Rafael Nadal,0.0, 1998.00,0.0,51,null,
+Rafael Nadal,0.0, 1999.00,0.0,55,null,
+Rafael Nadal,0.0, 2000.00,0.0,55,null,
+Rafael Nadal,0.0, 2001.00,0.0,55,null,
+Rafael Nadal,0.0, 2002.00,0.0,53,null,
+Rafael Nadal,0.0, 2003.00,0.0,55,null,
+Rafael Nadal,0.0, 2004.00,0.0,56,null,
+Rafael Nadal,0.0, 2005.00,0.0,55,null,
+Rafael Nadal,0.0, 2006.00,0.0,54,null,
+Rafael Nadal,0.0, 2007.00,0.0,54,null,
+Rafael Nadal,0.0, 2008.00,0.0,54,null,
+Rafael Nadal,0.0, 2009.00,0.0,53,null,
+Rafael Nadal,0.0, 2010.00,0.0,54,null,
+Rafael Nadal,0.0, 2011.00,0.0,53,null,
+Rafael Nadal,0.0, 2012.00,0.0,55,null,
+Rafael Nadal,0.0, 2013.00,0.0,54,null,
+Rafael Nadal,44.5, 2014.00,0.0,74,null, 2014.00
+Tiger Woods,0.0, 1990.00,0.0,22,null,
+Tiger Woods,0.0, 1991.00,0.0,21,null,
+Tiger Woods,0.0, 1992.00,0.0,18,null,
+Tiger Woods,0.0, 1993.00,0.0,15,null,
+Tiger Woods,0.0, 1994.00,0.0,16,null,
+Tiger Woods,0.0, 1995.00,0.0,18,null,
+Tiger Woods,0.0, 1996.00,0.0,20,null,
+Tiger Woods,26.1, 1997.00,0.0,77,null, 1997.00
+Tiger Woods,26.8, 1998.00,26.1,79,null, 1998.00
+Tiger Woods,47.0, 1999.00,26.8,81,null, 1999.00
+Tiger Woods,53.0, 2000.00,47.0,81,null, 2000.00
+Tiger Woods,53.0, 2001.00,53.0,81,null, 2000.00
+Tiger Woods,69.0, 2002.00,53.0,82,null, 2002.00
+Tiger Woods,78.0, 2003.00,69.0,82,null, 2003.00
+Tiger Woods,80.3, 2004.00,78.0,82,null, 2004.00
+Tiger Woods,87.0, 2005.00,80.3,82,null, 2005.00
+Tiger Woods,90.0, 2006.00,87.0,82,null, 2006.00
+Tiger Woods,100.0, 2007.00,90.0,82,null, 2007.00
+Tiger Woods,115.0, 2008.00,100.0,82,null, 2008.00
+Tiger Woods,110.0, 2009.00,115.0,82,null, 2008.00
+Tiger Woods,105.0, 2010.00,110.0,82,null, 2008.00
+Tiger Woods,75.0, 2011.00,105.0,82,null, 2008.00
+Tiger Woods,59.4, 2012.00,75.0,80,null, 2008.00
+Tiger Woods,78.1, 2013.00,59.4,82,null, 2008.00
+Tiger Woods,61.2, 2014.00,78.1,77,null, 2008.00
+Tiger Woods,50.6, 2015.00,61.2,74,null, 2008.00
+Manny Pacquiao,0.0, 1990.00,0.0,46,null,
+Manny Pacquiao,0.0, 1991.00,0.0,45,null,
+Manny Pacquiao,0.0, 1992.00,0.0,42,null,
+Manny Pacquiao,0.0, 1993.00,0.0,39,null,
+Manny Pacquiao,0.0, 1994.00,0.0,40,null,
+Manny Pacquiao,0.0, 1995.00,0.0,42,null,
+Manny Pacquiao,0.0, 1996.00,0.0,44,null,
+Manny Pacquiao,0.0, 1997.00,0.0,41,null,
+Manny Pacquiao,0.0, 1998.00,0.0,40,null,
+Manny Pacquiao,0.0, 1999.00,0.0,44,null,
+Manny Pacquiao,0.0, 2000.00,0.0,44,null,
+Manny Pacquiao,0.0, 2001.00,0.0,44,null,
+Manny Pacquiao,0.0, 2002.00,0.0,42,null,
+Manny Pacquiao,0.0, 2003.00,0.0,44,null,
+Manny Pacquiao,0.0, 2004.00,0.0,45,null,
+Manny Pacquiao,0.0, 2005.00,0.0,44,null,
+Manny Pacquiao,0.0, 2006.00,0.0,43,null,
+Manny Pacquiao,0.0, 2007.00,0.0,43,null,
+Manny Pacquiao,0.0, 2008.00,0.0,43,null,
+Manny Pacquiao,40.0, 2009.00,0.0,75,null, 2009.00
+Manny Pacquiao,42.0, 2010.00,40.0,75,null, 2010.00
+Manny Pacquiao,0.0, 2011.00,42.0,70,null, 2010.00
+Manny Pacquiao,62.0, 2012.00,0.0,81,null, 2012.00
+Manny Pacquiao,0.0, 2013.00,62.0,71,null, 2012.00
+Manny Pacquiao,0.0, 2014.00,0.0,71,null, 2012.00
+Manny Pacquiao,160.0, 2015.00,0.0,81,null, 2015.00
+Floyd Mayweather Jr.,0.0, 1990.00,0.0,54,null,
+Floyd Mayweather Jr.,0.0, 1991.00,0.0,53,null,
+Floyd Mayweather Jr.,0.0, 1992.00,0.0,50,null,
+Floyd Mayweather Jr.,0.0, 1993.00,0.0,47,null,
+Floyd Mayweather Jr.,0.0, 1994.00,0.0,48,null,
+Floyd Mayweather Jr.,0.0, 1995.00,0.0,50,null,
+Floyd Mayweather Jr.,0.0, 1996.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 1997.00,0.0,49,null,
+Floyd Mayweather Jr.,0.0, 1998.00,0.0,48,null,
+Floyd Mayweather Jr.,0.0, 1999.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 2000.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 2001.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 2002.00,0.0,50,null,
+Floyd Mayweather Jr.,0.0, 2003.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 2004.00,0.0,53,null,
+Floyd Mayweather Jr.,0.0, 2005.00,0.0,52,null,
+Floyd Mayweather Jr.,0.0, 2006.00,0.0,51,null,
+Floyd Mayweather Jr.,0.0, 2007.00,0.0,51,null,
+Floyd Mayweather Jr.,0.0, 2008.00,0.0,51,null,
+Floyd Mayweather Jr.,0.0, 2009.00,0.0,50,null,
+Floyd Mayweather Jr.,0.0, 2010.00,0.0,51,null,
+Floyd Mayweather Jr.,0.0, 2011.00,0.0,50,null,
+Floyd Mayweather Jr.,85.0, 2012.00,0.0,82,null, 2012.00
+Floyd Mayweather Jr.,0.0, 2013.00,85.0,72,null, 2012.00
+Floyd Mayweather Jr.,105.0, 2014.00,0.0,82,null, 2014.00
+Floyd Mayweather Jr.,300.0, 2015.00,105.0,82,null, 2015.00
+Kobe Bryant,0.0, 1990.00,0.0,30,null,
+Kobe Bryant,0.0, 1991.00,0.0,29,null,
+Kobe Bryant,0.0, 1992.00,0.0,26,null,
+Kobe Bryant,0.0, 1993.00,0.0,23,null,
+Kobe Bryant,0.0, 1994.00,0.0,24,null,
+Kobe Bryant,0.0, 1995.00,0.0,26,null,
+Kobe Bryant,0.0, 1996.00,0.0,28,null,
+Kobe Bryant,0.0, 1997.00,0.0,25,null,
+Kobe Bryant,0.0, 1998.00,0.0,24,null,
+Kobe Bryant,0.0, 1999.00,0.0,28,null,
+Kobe Bryant,0.0, 2000.00,0.0,28,null,
+Kobe Bryant,0.0, 2001.00,0.0,28,null,
+Kobe Bryant,22.0, 2002.00,0.0,74,null, 2002.00
+Kobe Bryant,0.0, 2003.00,22.0,71,null, 2002.00
+Kobe Bryant,26.1, 2004.00,0.0,73,null, 2004.00
+Kobe Bryant,28.8, 2005.00,26.1,75,null, 2005.00
+Kobe Bryant,31.0, 2006.00,28.8,77,null, 2006.00
+Kobe Bryant,33.0, 2007.00,31.0,77,null, 2007.00
+Kobe Bryant,39.0, 2008.00,33.0,77,null, 2008.00
+Kobe Bryant,45.0, 2009.00,39.0,79,null, 2009.00
+Kobe Bryant,48.0, 2010.00,45.0,80,null, 2010.00
+Kobe Bryant,53.0, 2011.00,48.0,81,null, 2011.00
+Kobe Bryant,52.3, 2012.00,53.0,77,null, 2011.00
+Kobe Bryant,61.9, 2013.00,52.3,80,null, 2013.00
+Kobe Bryant,61.5, 2014.00,61.9,78,null, 2013.00
+Kobe Bryant,49.5, 2015.00,61.5,73,null, 2013.00
+Kobe Bryant,50.0, 2016.00,49.5,73,null, 2013.00
+Jordan Spieth,0.0, 1990.00,0.0,62,null,
+Jordan Spieth,0.0, 1991.00,0.0,61,null,
+Jordan Spieth,0.0, 1992.00,0.0,58,null,
+Jordan Spieth,0.0, 1993.00,0.0,55,null,
+Jordan Spieth,0.0, 1994.00,0.0,56,null,
+Jordan Spieth,0.0, 1995.00,0.0,58,null,
+Jordan Spieth,0.0, 1996.00,0.0,60,null,
+Jordan Spieth,0.0, 1997.00,0.0,57,null,
+Jordan Spieth,0.0, 1998.00,0.0,56,null,
+Jordan Spieth,0.0, 1999.00,0.0,60,null,
+Jordan Spieth,0.0, 2000.00,0.0,60,null,
+Jordan Spieth,0.0, 2001.00,0.0,60,null,
+Jordan Spieth,0.0, 2002.00,0.0,58,null,
+Jordan Spieth,0.0, 2003.00,0.0,60,null,
+Jordan Spieth,0.0, 2004.00,0.0,61,null,
+Jordan Spieth,0.0, 2005.00,0.0,60,null,
+Jordan Spieth,0.0, 2006.00,0.0,59,null,
+Jordan Spieth,0.0, 2007.00,0.0,59,null,
+Jordan Spieth,0.0, 2008.00,0.0,59,null,
+Jordan Spieth,0.0, 2009.00,0.0,58,null,
+Jordan Spieth,0.0, 2010.00,0.0,59,null,
+Jordan Spieth,0.0, 2011.00,0.0,58,null,
+Jordan Spieth,0.0, 2012.00,0.0,60,null,
+Jordan Spieth,0.0, 2013.00,0.0,59,null,
+Jordan Spieth,0.0, 2014.00,0.0,59,null,
+Jordan Spieth,0.0, 2015.00,0.0,59,null,
+Jordan Spieth,52.8, 2016.00,0.0,74,null, 2016.00
+Phil Mickelson,0.0, 1990.00,0.0,40,null,
+Phil Mickelson,0.0, 1991.00,0.0,39,null,
+Phil Mickelson,0.0, 1992.00,0.0,36,null,
+Phil Mickelson,0.0, 1993.00,0.0,33,null,
+Phil Mickelson,0.0, 1994.00,0.0,34,null,
+Phil Mickelson,0.0, 1995.00,0.0,36,null,
+Phil Mickelson,0.0, 1996.00,0.0,38,null,
+Phil Mickelson,0.0, 1997.00,0.0,35,null,
+Phil Mickelson,0.0, 1998.00,0.0,34,null,
+Phil Mickelson,0.0, 1999.00,0.0,38,null,
+Phil Mickelson,0.0, 2000.00,0.0,38,null,
+Phil Mickelson,0.0, 2001.00,0.0,38,null,
+Phil Mickelson,0.0, 2002.00,0.0,36,null,
+Phil Mickelson,0.0, 2003.00,0.0,38,null,
+Phil Mickelson,0.0, 2004.00,0.0,39,null,
+Phil Mickelson,0.0, 2005.00,0.0,38,null,
+Phil Mickelson,47.0, 2006.00,0.0,79,null, 2006.00
+Phil Mickelson,42.0, 2007.00,47.0,80,null, 2006.00
+Phil Mickelson,45.0, 2008.00,42.0,80,null, 2006.00
+Phil Mickelson,40.0, 2009.00,45.0,77,null, 2006.00
+Phil Mickelson,46.0, 2010.00,40.0,79,null, 2006.00
+Phil Mickelson,46.5, 2011.00,46.0,78,null, 2006.00
+Phil Mickelson,47.8, 2012.00,46.5,76,null, 2012.00
+Phil Mickelson,48.7, 2013.00,47.8,76,null, 2013.00
+Phil Mickelson,53.2, 2014.00,48.7,75,null, 2014.00
+Phil Mickelson,50.8, 2015.00,53.2,75,null, 2014.00
+Phil Mickelson,52.9, 2016.00,50.8,75,null, 2014.00
+Cam Newton,0.0, 1990.00,0.0,61,null,
+Cam Newton,0.0, 1991.00,0.0,60,null,
+Cam Newton,0.0, 1992.00,0.0,57,null,
+Cam Newton,0.0, 1993.00,0.0,54,null,
+Cam Newton,0.0, 1994.00,0.0,55,null,
+Cam Newton,0.0, 1995.00,0.0,57,null,
+Cam Newton,0.0, 1996.00,0.0,59,null,
+Cam Newton,0.0, 1997.00,0.0,56,null,
+Cam Newton,0.0, 1998.00,0.0,55,null,
+Cam Newton,0.0, 1999.00,0.0,59,null,
+Cam Newton,0.0, 2000.00,0.0,59,null,
+Cam Newton,0.0, 2001.00,0.0,59,null,
+Cam Newton,0.0, 2002.00,0.0,57,null,
+Cam Newton,0.0, 2003.00,0.0,59,null,
+Cam Newton,0.0, 2004.00,0.0,60,null,
+Cam Newton,0.0, 2005.00,0.0,59,null,
+Cam Newton,0.0, 2006.00,0.0,58,null,
+Cam Newton,0.0, 2007.00,0.0,58,null,
+Cam Newton,0.0, 2008.00,0.0,58,null,
+Cam Newton,0.0, 2009.00,0.0,57,null,
+Cam Newton,0.0, 2010.00,0.0,58,null,
+Cam Newton,0.0, 2011.00,0.0,57,null,
+Cam Newton,0.0, 2012.00,0.0,59,null,
+Cam Newton,0.0, 2013.00,0.0,58,null,
+Cam Newton,0.0, 2014.00,0.0,58,null,
+Cam Newton,0.0, 2015.00,0.0,58,null,
+Cam Newton,53.1, 2016.00,0.0,76,null, 2016.00
+Novak Djokovic,0.0, 1990.00,0.0,60,null,
+Novak Djokovic,0.0, 1991.00,0.0,59,null,
+Novak Djokovic,0.0, 1992.00,0.0,56,null,
+Novak Djokovic,0.0, 1993.00,0.0,53,null,
+Novak Djokovic,0.0, 1994.00,0.0,54,null,
+Novak Djokovic,0.0, 1995.00,0.0,56,null,
+Novak Djokovic,0.0, 1996.00,0.0,58,null,
+Novak Djokovic,0.0, 1997.00,0.0,55,null,
+Novak Djokovic,0.0, 1998.00,0.0,54,null,
+Novak Djokovic,0.0, 1999.00,0.0,58,null,
+Novak Djokovic,0.0, 2000.00,0.0,58,null,
+Novak Djokovic,0.0, 2001.00,0.0,58,null,
+Novak Djokovic,0.0, 2002.00,0.0,56,null,
+Novak Djokovic,0.0, 2003.00,0.0,58,null,
+Novak Djokovic,0.0, 2004.00,0.0,59,null,
+Novak Djokovic,0.0, 2005.00,0.0,58,null,
+Novak Djokovic,0.0, 2006.00,0.0,57,null,
+Novak Djokovic,0.0, 2007.00,0.0,57,null,
+Novak Djokovic,0.0, 2008.00,0.0,57,null,
+Novak Djokovic,0.0, 2009.00,0.0,56,null,
+Novak Djokovic,0.0, 2010.00,0.0,57,null,
+Novak Djokovic,0.0, 2011.00,0.0,56,null,
+Novak Djokovic,0.0, 2012.00,0.0,58,null,
+Novak Djokovic,0.0, 2013.00,0.0,57,null,
+Novak Djokovic,0.0, 2014.00,0.0,57,null,
+Novak Djokovic,0.0, 2015.00,0.0,57,null,
+Novak Djokovic,55.8, 2016.00,0.0,77,null, 2016.00
+Lewis Hamilton,0.0, 1990.00,0.0,67,null,
+Lewis Hamilton,0.0, 1991.00,0.0,66,null,
+Lewis Hamilton,0.0, 1992.00,0.0,63,null,
+Lewis Hamilton,0.0, 1993.00,0.0,60,null,
+Lewis Hamilton,0.0, 1994.00,0.0,61,null,
+Lewis Hamilton,0.0, 1995.00,0.0,63,null,
+Lewis Hamilton,0.0, 1996.00,0.0,65,null,
+Lewis Hamilton,0.0, 1997.00,0.0,62,null,
+Lewis Hamilton,0.0, 1998.00,0.0,61,null,
+Lewis Hamilton,0.0, 1999.00,0.0,65,null,
+Lewis Hamilton,0.0, 2000.00,0.0,65,null,
+Lewis Hamilton,0.0, 2001.00,0.0,65,null,
+Lewis Hamilton,0.0, 2002.00,0.0,63,null,
+Lewis Hamilton,0.0, 2003.00,0.0,65,null,
+Lewis Hamilton,0.0, 2004.00,0.0,66,null,
+Lewis Hamilton,0.0, 2005.00,0.0,65,null,
+Lewis Hamilton,0.0, 2006.00,0.0,64,null,
+Lewis Hamilton,0.0, 2007.00,0.0,64,null,
+Lewis Hamilton,0.0, 2008.00,0.0,64,null,
+Lewis Hamilton,0.0, 2009.00,0.0,63,null,
+Lewis Hamilton,0.0, 2010.00,0.0,64,null,
+Lewis Hamilton,0.0, 2011.00,0.0,63,null,
+Lewis Hamilton,0.0, 2012.00,0.0,65,null,
+Lewis Hamilton,0.0, 2013.00,0.0,64,null,
+Lewis Hamilton,0.0, 2014.00,0.0,64,null,
+Lewis Hamilton,0.0, 2015.00,0.0,64,null,
+Lewis Hamilton,0.0, 2016.00,0.0,64,null,
+Lewis Hamilton,46.0, 2017.00,0.0,73,null, 2017.00
+James Harden,0.0, 1990.00,0.0,66,null,
+James Harden,0.0, 1991.00,0.0,65,null,
+James Harden,0.0, 1992.00,0.0,62,null,
+James Harden,0.0, 1993.00,0.0,59,null,
+James Harden,0.0, 1994.00,0.0,60,null,
+James Harden,0.0, 1995.00,0.0,62,null,
+James Harden,0.0, 1996.00,0.0,64,null,
+James Harden,0.0, 1997.00,0.0,61,null,
+James Harden,0.0, 1998.00,0.0,60,null,
+James Harden,0.0, 1999.00,0.0,64,null,
+James Harden,0.0, 2000.00,0.0,64,null,
+James Harden,0.0, 2001.00,0.0,64,null,
+James Harden,0.0, 2002.00,0.0,62,null,
+James Harden,0.0, 2003.00,0.0,64,null,
+James Harden,0.0, 2004.00,0.0,65,null,
+James Harden,0.0, 2005.00,0.0,64,null,
+James Harden,0.0, 2006.00,0.0,63,null,
+James Harden,0.0, 2007.00,0.0,63,null,
+James Harden,0.0, 2008.00,0.0,63,null,
+James Harden,0.0, 2009.00,0.0,62,null,
+James Harden,0.0, 2010.00,0.0,63,null,
+James Harden,0.0, 2011.00,0.0,62,null,
+James Harden,0.0, 2012.00,0.0,64,null,
+James Harden,0.0, 2013.00,0.0,63,null,
+James Harden,0.0, 2014.00,0.0,63,null,
+James Harden,0.0, 2015.00,0.0,63,null,
+James Harden,0.0, 2016.00,0.0,63,null,
+James Harden,46.6, 2017.00,0.0,74,null, 2017.00
+Andrew Luck,0.0, 1990.00,0.0,63,null,
+Andrew Luck,0.0, 1991.00,0.0,62,null,
+Andrew Luck,0.0, 1992.00,0.0,59,null,
+Andrew Luck,0.0, 1993.00,0.0,56,null,
+Andrew Luck,0.0, 1994.00,0.0,57,null,
+Andrew Luck,0.0, 1995.00,0.0,59,null,
+Andrew Luck,0.0, 1996.00,0.0,61,null,
+Andrew Luck,0.0, 1997.00,0.0,58,null,
+Andrew Luck,0.0, 1998.00,0.0,57,null,
+Andrew Luck,0.0, 1999.00,0.0,61,null,
+Andrew Luck,0.0, 2000.00,0.0,61,null,
+Andrew Luck,0.0, 2001.00,0.0,61,null,
+Andrew Luck,0.0, 2002.00,0.0,59,null,
+Andrew Luck,0.0, 2003.00,0.0,61,null,
+Andrew Luck,0.0, 2004.00,0.0,62,null,
+Andrew Luck,0.0, 2005.00,0.0,61,null,
+Andrew Luck,0.0, 2006.00,0.0,60,null,
+Andrew Luck,0.0, 2007.00,0.0,60,null,
+Andrew Luck,0.0, 2008.00,0.0,60,null,
+Andrew Luck,0.0, 2009.00,0.0,59,null,
+Andrew Luck,0.0, 2010.00,0.0,60,null,
+Andrew Luck,0.0, 2011.00,0.0,59,null,
+Andrew Luck,0.0, 2012.00,0.0,61,null,
+Andrew Luck,0.0, 2013.00,0.0,60,null,
+Andrew Luck,0.0, 2014.00,0.0,60,null,
+Andrew Luck,0.0, 2015.00,0.0,60,null,
+Andrew Luck,0.0, 2016.00,0.0,60,null,
+Andrew Luck,50.0, 2017.00,0.0,76,null, 2017.00
+Rory McIlroy,0.0, 1990.00,0.0,64,null,
+Rory McIlroy,0.0, 1991.00,0.0,63,null,
+Rory McIlroy,0.0, 1992.00,0.0,60,null,
+Rory McIlroy,0.0, 1993.00,0.0,57,null,
+Rory McIlroy,0.0, 1994.00,0.0,58,null,
+Rory McIlroy,0.0, 1995.00,0.0,60,null,
+Rory McIlroy,0.0, 1996.00,0.0,62,null,
+Rory McIlroy,0.0, 1997.00,0.0,59,null,
+Rory McIlroy,0.0, 1998.00,0.0,58,null,
+Rory McIlroy,0.0, 1999.00,0.0,62,null,
+Rory McIlroy,0.0, 2000.00,0.0,62,null,
+Rory McIlroy,0.0, 2001.00,0.0,62,null,
+Rory McIlroy,0.0, 2002.00,0.0,60,null,
+Rory McIlroy,0.0, 2003.00,0.0,62,null,
+Rory McIlroy,0.0, 2004.00,0.0,63,null,
+Rory McIlroy,0.0, 2005.00,0.0,62,null,
+Rory McIlroy,0.0, 2006.00,0.0,61,null,
+Rory McIlroy,0.0, 2007.00,0.0,61,null,
+Rory McIlroy,0.0, 2008.00,0.0,61,null,
+Rory McIlroy,0.0, 2009.00,0.0,60,null,
+Rory McIlroy,0.0, 2010.00,0.0,61,null,
+Rory McIlroy,0.0, 2011.00,0.0,60,null,
+Rory McIlroy,0.0, 2012.00,0.0,62,null,
+Rory McIlroy,0.0, 2013.00,0.0,61,null,
+Rory McIlroy,0.0, 2014.00,0.0,61,null,
+Rory McIlroy,0.0, 2015.00,0.0,61,null,
+Rory McIlroy,0.0, 2016.00,0.0,61,null,
+Rory McIlroy,50.0, 2017.00,0.0,77,null, 2017.00
+Matthew Stafford,0.0, 1990.00,0.0,70,null,
+Matthew Stafford,0.0, 1991.00,0.0,69,null,
+Matthew Stafford,0.0, 1992.00,0.0,66,null,
+Matthew Stafford,0.0, 1993.00,0.0,63,null,
+Matthew Stafford,0.0, 1994.00,0.0,64,null,
+Matthew Stafford,0.0, 1995.00,0.0,66,null,
+Matthew Stafford,0.0, 1996.00,0.0,68,null,
+Matthew Stafford,0.0, 1997.00,0.0,65,null,
+Matthew Stafford,0.0, 1998.00,0.0,64,null,
+Matthew Stafford,0.0, 1999.00,0.0,68,null,
+Matthew Stafford,0.0, 2000.00,0.0,68,null,
+Matthew Stafford,0.0, 2001.00,0.0,68,null,
+Matthew Stafford,0.0, 2002.00,0.0,66,null,
+Matthew Stafford,0.0, 2003.00,0.0,68,null,
+Matthew Stafford,0.0, 2004.00,0.0,69,null,
+Matthew Stafford,0.0, 2005.00,0.0,68,null,
+Matthew Stafford,0.0, 2006.00,0.0,67,null,
+Matthew Stafford,0.0, 2007.00,0.0,67,null,
+Matthew Stafford,0.0, 2008.00,0.0,67,null,
+Matthew Stafford,0.0, 2009.00,0.0,66,null,
+Matthew Stafford,0.0, 2010.00,0.0,67,null,
+Matthew Stafford,0.0, 2011.00,0.0,66,null,
+Matthew Stafford,0.0, 2012.00,0.0,68,null,
+Matthew Stafford,0.0, 2013.00,0.0,67,null,
+Matthew Stafford,0.0, 2014.00,0.0,67,null,
+Matthew Stafford,0.0, 2015.00,0.0,67,null,
+Matthew Stafford,0.0, 2016.00,0.0,67,null,
+Matthew Stafford,0.0, 2017.00,0.0,67,null,
+Matthew Stafford,59.5, 2018.00,0.0,73,null, 2018.00
+Matt Ryan,0.0, 1990.00,0.0,58,null,
+Matt Ryan,0.0, 1991.00,0.0,57,null,
+Matt Ryan,0.0, 1992.00,0.0,54,null,
+Matt Ryan,0.0, 1993.00,0.0,51,null,
+Matt Ryan,0.0, 1994.00,0.0,52,null,
+Matt Ryan,0.0, 1995.00,0.0,54,null,
+Matt Ryan,0.0, 1996.00,0.0,56,null,
+Matt Ryan,0.0, 1997.00,0.0,53,null,
+Matt Ryan,0.0, 1998.00,0.0,52,null,
+Matt Ryan,0.0, 1999.00,0.0,56,null,
+Matt Ryan,0.0, 2000.00,0.0,56,null,
+Matt Ryan,0.0, 2001.00,0.0,56,null,
+Matt Ryan,0.0, 2002.00,0.0,54,null,
+Matt Ryan,0.0, 2003.00,0.0,56,null,
+Matt Ryan,0.0, 2004.00,0.0,57,null,
+Matt Ryan,0.0, 2005.00,0.0,56,null,
+Matt Ryan,0.0, 2006.00,0.0,55,null,
+Matt Ryan,0.0, 2007.00,0.0,55,null,
+Matt Ryan,0.0, 2008.00,0.0,55,null,
+Matt Ryan,0.0, 2009.00,0.0,54,null,
+Matt Ryan,0.0, 2010.00,0.0,55,null,
+Matt Ryan,0.0, 2011.00,0.0,54,null,
+Matt Ryan,0.0, 2012.00,0.0,56,null,
+Matt Ryan,0.0, 2013.00,0.0,55,null,
+Matt Ryan,43.8, 2014.00,0.0,73,null, 2014.00
+Matt Ryan,0.0, 2015.00,43.8,72,null, 2014.00
+Matt Ryan,0.0, 2016.00,0.0,72,null, 2014.00
+Matt Ryan,0.0, 2017.00,0.0,72,null, 2014.00
+Matt Ryan,67.3, 2018.00,0.0,74,null, 2018.00
+Conor McGregor,0.0, 1990.00,0.0,68,null,
+Conor McGregor,0.0, 1991.00,0.0,67,null,
+Conor McGregor,0.0, 1992.00,0.0,64,null,
+Conor McGregor,0.0, 1993.00,0.0,61,null,
+Conor McGregor,0.0, 1994.00,0.0,62,null,
+Conor McGregor,0.0, 1995.00,0.0,64,null,
+Conor McGregor,0.0, 1996.00,0.0,66,null,
+Conor McGregor,0.0, 1997.00,0.0,63,null,
+Conor McGregor,0.0, 1998.00,0.0,62,null,
+Conor McGregor,0.0, 1999.00,0.0,66,null,
+Conor McGregor,0.0, 2000.00,0.0,66,null,
+Conor McGregor,0.0, 2001.00,0.0,66,null,
+Conor McGregor,0.0, 2002.00,0.0,64,null,
+Conor McGregor,0.0, 2003.00,0.0,66,null,
+Conor McGregor,0.0, 2004.00,0.0,67,null,
+Conor McGregor,0.0, 2005.00,0.0,66,null,
+Conor McGregor,0.0, 2006.00,0.0,65,null,
+Conor McGregor,0.0, 2007.00,0.0,65,null,
+Conor McGregor,0.0, 2008.00,0.0,65,null,
+Conor McGregor,0.0, 2009.00,0.0,64,null,
+Conor McGregor,0.0, 2010.00,0.0,65,null,
+Conor McGregor,0.0, 2011.00,0.0,64,null,
+Conor McGregor,0.0, 2012.00,0.0,66,null,
+Conor McGregor,0.0, 2013.00,0.0,65,null,
+Conor McGregor,0.0, 2014.00,0.0,65,null,
+Conor McGregor,0.0, 2015.00,0.0,65,null,
+Conor McGregor,0.0, 2016.00,0.0,65,null,
+Conor McGregor,0.0, 2017.00,0.0,65,null,
+Conor McGregor,99.0, 2018.00,0.0,79,null, 2018.00
+Floyd Mayweather,0.0, 1990.00,0.0,48,null,
+Floyd Mayweather,0.0, 1991.00,0.0,47,null,
+Floyd Mayweather,0.0, 1992.00,0.0,44,null,
+Floyd Mayweather,0.0, 1993.00,0.0,41,null,
+Floyd Mayweather,0.0, 1994.00,0.0,42,null,
+Floyd Mayweather,0.0, 1995.00,0.0,44,null,
+Floyd Mayweather,0.0, 1996.00,0.0,46,null,
+Floyd Mayweather,0.0, 1997.00,0.0,43,null,
+Floyd Mayweather,0.0, 1998.00,0.0,42,null,
+Floyd Mayweather,0.0, 1999.00,0.0,46,null,
+Floyd Mayweather,0.0, 2000.00,0.0,46,null,
+Floyd Mayweather,0.0, 2001.00,0.0,46,null,
+Floyd Mayweather,0.0, 2002.00,0.0,44,null,
+Floyd Mayweather,0.0, 2003.00,0.0,46,null,
+Floyd Mayweather,0.0, 2004.00,0.0,47,null,
+Floyd Mayweather,0.0, 2005.00,0.0,46,null,
+Floyd Mayweather,0.0, 2006.00,0.0,45,null,
+Floyd Mayweather,0.0, 2007.00,0.0,45,null,
+Floyd Mayweather,0.0, 2008.00,0.0,45,null,
+Floyd Mayweather,0.0, 2009.00,0.0,44,null,
+Floyd Mayweather,65.0, 2010.00,0.0,81,null, 2010.00
+Floyd Mayweather,0.0, 2011.00,65.0,72,null, 2010.00
+Floyd Mayweather,0.0, 2012.00,0.0,71,null, 2010.00
+Floyd Mayweather,0.0, 2013.00,0.0,70,null, 2010.00
+Floyd Mayweather,0.0, 2014.00,0.0,70,null, 2010.00
+Floyd Mayweather,0.0, 2015.00,0.0,70,null, 2010.00
+Floyd Mayweather,0.0, 2016.00,0.0,70,null, 2010.00
+Floyd Mayweather,0.0, 2017.00,0.0,70,null, 2010.00
+Floyd Mayweather,285.0, 2018.00,0.0,82,null, 2018.00
+Kevin Durant,0.0, 1990.00,0.0,59,null,
+Kevin Durant,0.0, 1991.00,0.0,58,null,
+Kevin Durant,0.0, 1992.00,0.0,55,null,
+Kevin Durant,0.0, 1993.00,0.0,52,null,
+Kevin Durant,0.0, 1994.00,0.0,53,null,
+Kevin Durant,0.0, 1995.00,0.0,55,null,
+Kevin Durant,0.0, 1996.00,0.0,57,null,
+Kevin Durant,0.0, 1997.00,0.0,54,null,
+Kevin Durant,0.0, 1998.00,0.0,53,null,
+Kevin Durant,0.0, 1999.00,0.0,57,null,
+Kevin Durant,0.0, 2000.00,0.0,57,null,
+Kevin Durant,0.0, 2001.00,0.0,57,null,
+Kevin Durant,0.0, 2002.00,0.0,55,null,
+Kevin Durant,0.0, 2003.00,0.0,57,null,
+Kevin Durant,0.0, 2004.00,0.0,58,null,
+Kevin Durant,0.0, 2005.00,0.0,57,null,
+Kevin Durant,0.0, 2006.00,0.0,56,null,
+Kevin Durant,0.0, 2007.00,0.0,56,null,
+Kevin Durant,0.0, 2008.00,0.0,56,null,
+Kevin Durant,0.0, 2009.00,0.0,55,null,
+Kevin Durant,0.0, 2010.00,0.0,56,null,
+Kevin Durant,0.0, 2011.00,0.0,55,null,
+Kevin Durant,0.0, 2012.00,0.0,57,null,
+Kevin Durant,0.0, 2013.00,0.0,56,null,
+Kevin Durant,0.0, 2014.00,0.0,56,null,
+Kevin Durant,54.1, 2015.00,0.0,76,null, 2015.00
+Kevin Durant,56.2, 2016.00,54.1,78,null, 2016.00
+Kevin Durant,60.6, 2017.00,56.2,78,null, 2017.00
+Kevin Durant,0.0, 2018.00,60.6,72,null, 2017.00
+Kevin Durant,65.4, 2019.00,0.0,73,null, 2019.00
+Stephen Curry,0.0, 1990.00,0.0,65,null,
+Stephen Curry,0.0, 1991.00,0.0,64,null,
+Stephen Curry,0.0, 1992.00,0.0,61,null,
+Stephen Curry,0.0, 1993.00,0.0,58,null,
+Stephen Curry,0.0, 1994.00,0.0,59,null,
+Stephen Curry,0.0, 1995.00,0.0,61,null,
+Stephen Curry,0.0, 1996.00,0.0,63,null,
+Stephen Curry,0.0, 1997.00,0.0,60,null,
+Stephen Curry,0.0, 1998.00,0.0,59,null,
+Stephen Curry,0.0, 1999.00,0.0,63,null,
+Stephen Curry,0.0, 2000.00,0.0,63,null,
+Stephen Curry,0.0, 2001.00,0.0,63,null,
+Stephen Curry,0.0, 2002.00,0.0,61,null,
+Stephen Curry,0.0, 2003.00,0.0,63,null,
+Stephen Curry,0.0, 2004.00,0.0,64,null,
+Stephen Curry,0.0, 2005.00,0.0,63,null,
+Stephen Curry,0.0, 2006.00,0.0,62,null,
+Stephen Curry,0.0, 2007.00,0.0,62,null,
+Stephen Curry,0.0, 2008.00,0.0,62,null,
+Stephen Curry,0.0, 2009.00,0.0,61,null,
+Stephen Curry,0.0, 2010.00,0.0,62,null,
+Stephen Curry,0.0, 2011.00,0.0,61,null,
+Stephen Curry,0.0, 2012.00,0.0,63,null,
+Stephen Curry,0.0, 2013.00,0.0,62,null,
+Stephen Curry,0.0, 2014.00,0.0,62,null,
+Stephen Curry,0.0, 2015.00,0.0,62,null,
+Stephen Curry,0.0, 2016.00,0.0,62,null,
+Stephen Curry,47.3, 2017.00,0.0,75,null, 2017.00
+Stephen Curry,76.9, 2018.00,47.3,75,null, 2018.00
+Stephen Curry,79.8, 2019.00,76.9,74,null, 2019.00
+LeBron James,0.0, 1990.00,0.0,44,null,
+LeBron James,0.0, 1991.00,0.0,43,null,
+LeBron James,0.0, 1992.00,0.0,40,null,
+LeBron James,0.0, 1993.00,0.0,37,null,
+LeBron James,0.0, 1994.00,0.0,38,null,
+LeBron James,0.0, 1995.00,0.0,40,null,
+LeBron James,0.0, 1996.00,0.0,42,null,
+LeBron James,0.0, 1997.00,0.0,39,null,
+LeBron James,0.0, 1998.00,0.0,38,null,
+LeBron James,0.0, 1999.00,0.0,42,null,
+LeBron James,0.0, 2000.00,0.0,42,null,
+LeBron James,0.0, 2001.00,0.0,42,null,
+LeBron James,0.0, 2002.00,0.0,40,null,
+LeBron James,0.0, 2003.00,0.0,42,null,
+LeBron James,0.0, 2004.00,0.0,43,null,
+LeBron James,0.0, 2005.00,0.0,42,null,
+LeBron James,0.0, 2006.00,0.0,41,null,
+LeBron James,0.0, 2007.00,0.0,41,null,
+LeBron James,38.0, 2008.00,0.0,76,null, 2008.00
+LeBron James,40.0, 2009.00,38.0,76,null, 2009.00
+LeBron James,42.8, 2010.00,40.0,76,null, 2010.00
+LeBron James,0.0, 2011.00,42.8,71,null, 2010.00
+LeBron James,53.0, 2012.00,0.0,79,null, 2012.00
+LeBron James,59.8, 2013.00,53.0,79,null, 2013.00
+LeBron James,72.3, 2014.00,59.8,80,null, 2014.00
+LeBron James,64.8, 2015.00,72.3,77,null, 2014.00
+LeBron James,77.2, 2016.00,64.8,80,null, 2016.00
+LeBron James,86.2, 2017.00,77.2,81,null, 2017.00
+LeBron James,85.5, 2018.00,86.2,77,null, 2017.00
+LeBron James,89.0, 2019.00,85.5,75,null, 2019.00
+Aaron Rodgers,0.0, 1990.00,0.0,56,null,
+Aaron Rodgers,0.0, 1991.00,0.0,55,null,
+Aaron Rodgers,0.0, 1992.00,0.0,52,null,
+Aaron Rodgers,0.0, 1993.00,0.0,49,null,
+Aaron Rodgers,0.0, 1994.00,0.0,50,null,
+Aaron Rodgers,0.0, 1995.00,0.0,52,null,
+Aaron Rodgers,0.0, 1996.00,0.0,54,null,
+Aaron Rodgers,0.0, 1997.00,0.0,51,null,
+Aaron Rodgers,0.0, 1998.00,0.0,50,null,
+Aaron Rodgers,0.0, 1999.00,0.0,54,null,
+Aaron Rodgers,0.0, 2000.00,0.0,54,null,
+Aaron Rodgers,0.0, 2001.00,0.0,54,null,
+Aaron Rodgers,0.0, 2002.00,0.0,52,null,
+Aaron Rodgers,0.0, 2003.00,0.0,54,null,
+Aaron Rodgers,0.0, 2004.00,0.0,55,null,
+Aaron Rodgers,0.0, 2005.00,0.0,54,null,
+Aaron Rodgers,0.0, 2006.00,0.0,53,null,
+Aaron Rodgers,0.0, 2007.00,0.0,53,null,
+Aaron Rodgers,0.0, 2008.00,0.0,53,null,
+Aaron Rodgers,0.0, 2009.00,0.0,52,null,
+Aaron Rodgers,0.0, 2010.00,0.0,53,null,
+Aaron Rodgers,0.0, 2011.00,0.0,52,null,
+Aaron Rodgers,0.0, 2012.00,0.0,54,null,
+Aaron Rodgers,49.0, 2013.00,0.0,77,null, 2013.00
+Aaron Rodgers,0.0, 2014.00,49.0,72,null, 2013.00
+Aaron Rodgers,0.0, 2015.00,0.0,71,null, 2013.00
+Aaron Rodgers,0.0, 2016.00,0.0,71,null, 2013.00
+Aaron Rodgers,0.0, 2017.00,0.0,71,null, 2013.00
+Aaron Rodgers,0.0, 2018.00,0.0,71,null, 2013.00
+Aaron Rodgers,89.3, 2019.00,0.0,76,null, 2019.00
+Russell Wilson,0.0, 1990.00,0.0,72,null,
+Russell Wilson,0.0, 1991.00,0.0,71,null,
+Russell Wilson,0.0, 1992.00,0.0,68,null,
+Russell Wilson,0.0, 1993.00,0.0,65,null,
+Russell Wilson,0.0, 1994.00,0.0,66,null,
+Russell Wilson,0.0, 1995.00,0.0,68,null,
+Russell Wilson,0.0, 1996.00,0.0,70,null,
+Russell Wilson,0.0, 1997.00,0.0,67,null,
+Russell Wilson,0.0, 1998.00,0.0,66,null,
+Russell Wilson,0.0, 1999.00,0.0,70,null,
+Russell Wilson,0.0, 2000.00,0.0,70,null,
+Russell Wilson,0.0, 2001.00,0.0,70,null,
+Russell Wilson,0.0, 2002.00,0.0,68,null,
+Russell Wilson,0.0, 2003.00,0.0,70,null,
+Russell Wilson,0.0, 2004.00,0.0,71,null,
+Russell Wilson,0.0, 2005.00,0.0,70,null,
+Russell Wilson,0.0, 2006.00,0.0,69,null,
+Russell Wilson,0.0, 2007.00,0.0,69,null,
+Russell Wilson,0.0, 2008.00,0.0,69,null,
+Russell Wilson,0.0, 2009.00,0.0,68,null,
+Russell Wilson,0.0, 2010.00,0.0,69,null,
+Russell Wilson,0.0, 2011.00,0.0,68,null,
+Russell Wilson,0.0, 2012.00,0.0,70,null,
+Russell Wilson,0.0, 2013.00,0.0,69,null,
+Russell Wilson,0.0, 2014.00,0.0,69,null,
+Russell Wilson,0.0, 2015.00,0.0,69,null,
+Russell Wilson,0.0, 2016.00,0.0,69,null,
+Russell Wilson,0.0, 2017.00,0.0,69,null,
+Russell Wilson,0.0, 2018.00,0.0,70,null,
+Russell Wilson,89.5, 2019.00,0.0,77,null, 2019.00
+Roger Federer,0.0, 1990.00,0.0,45,null,
+Roger Federer,0.0, 1991.00,0.0,44,null,
+Roger Federer,0.0, 1992.00,0.0,41,null,
+Roger Federer,0.0, 1993.00,0.0,38,null,
+Roger Federer,0.0, 1994.00,0.0,39,null,
+Roger Federer,0.0, 1995.00,0.0,41,null,
+Roger Federer,0.0, 1996.00,0.0,43,null,
+Roger Federer,0.0, 1997.00,0.0,40,null,
+Roger Federer,0.0, 1998.00,0.0,39,null,
+Roger Federer,0.0, 1999.00,0.0,43,null,
+Roger Federer,0.0, 2000.00,0.0,43,null,
+Roger Federer,0.0, 2001.00,0.0,43,null,
+Roger Federer,0.0, 2002.00,0.0,41,null,
+Roger Federer,0.0, 2003.00,0.0,43,null,
+Roger Federer,0.0, 2004.00,0.0,44,null,
+Roger Federer,0.0, 2005.00,0.0,43,null,
+Roger Federer,0.0, 2006.00,0.0,42,null,
+Roger Federer,0.0, 2007.00,0.0,42,null,
+Roger Federer,35.0, 2008.00,0.0,73,null, 2008.00
+Roger Federer,0.0, 2009.00,35.0,72,null, 2008.00
+Roger Federer,43.0, 2010.00,0.0,77,null, 2010.00
+Roger Federer,47.0, 2011.00,43.0,79,null, 2011.00
+Roger Federer,52.7, 2012.00,47.0,78,null, 2012.00
+Roger Federer,71.5, 2013.00,52.7,81,null, 2013.00
+Roger Federer,56.2, 2014.00,71.5,76,null, 2013.00
+Roger Federer,67.0, 2015.00,56.2,78,null, 2013.00
+Roger Federer,67.8, 2016.00,67.0,79,null, 2013.00
+Roger Federer,64.0, 2017.00,67.8,79,null, 2013.00
+Roger Federer,77.2, 2018.00,64.0,76,null, 2018.00
+Roger Federer,93.4, 2019.00,77.2,78,null, 2019.00
+Canelo Alvarez,0.0, 1990.00,0.0,71,null,
+Canelo Alvarez,0.0, 1991.00,0.0,70,null,
+Canelo Alvarez,0.0, 1992.00,0.0,67,null,
+Canelo Alvarez,0.0, 1993.00,0.0,64,null,
+Canelo Alvarez,0.0, 1994.00,0.0,65,null,
+Canelo Alvarez,0.0, 1995.00,0.0,67,null,
+Canelo Alvarez,0.0, 1996.00,0.0,69,null,
+Canelo Alvarez,0.0, 1997.00,0.0,66,null,
+Canelo Alvarez,0.0, 1998.00,0.0,65,null,
+Canelo Alvarez,0.0, 1999.00,0.0,69,null,
+Canelo Alvarez,0.0, 2000.00,0.0,69,null,
+Canelo Alvarez,0.0, 2001.00,0.0,69,null,
+Canelo Alvarez,0.0, 2002.00,0.0,67,null,
+Canelo Alvarez,0.0, 2003.00,0.0,69,null,
+Canelo Alvarez,0.0, 2004.00,0.0,70,null,
+Canelo Alvarez,0.0, 2005.00,0.0,69,null,
+Canelo Alvarez,0.0, 2006.00,0.0,68,null,
+Canelo Alvarez,0.0, 2007.00,0.0,68,null,
+Canelo Alvarez,0.0, 2008.00,0.0,68,null,
+Canelo Alvarez,0.0, 2009.00,0.0,67,null,
+Canelo Alvarez,0.0, 2010.00,0.0,68,null,
+Canelo Alvarez,0.0, 2011.00,0.0,67,null,
+Canelo Alvarez,0.0, 2012.00,0.0,69,null,
+Canelo Alvarez,0.0, 2013.00,0.0,68,null,
+Canelo Alvarez,0.0, 2014.00,0.0,68,null,
+Canelo Alvarez,0.0, 2015.00,0.0,68,null,
+Canelo Alvarez,0.0, 2016.00,0.0,68,null,
+Canelo Alvarez,0.0, 2017.00,0.0,68,null,
+Canelo Alvarez,0.0, 2018.00,0.0,69,null,
+Canelo Alvarez,94.0, 2019.00,0.0,79,null, 2019.00
+Neymar,0.0, 1990.00,0.0,69,null,
+Neymar,0.0, 1991.00,0.0,68,null,
+Neymar,0.0, 1992.00,0.0,65,null,
+Neymar,0.0, 1993.00,0.0,62,null,
+Neymar,0.0, 1994.00,0.0,63,null,
+Neymar,0.0, 1995.00,0.0,65,null,
+Neymar,0.0, 1996.00,0.0,67,null,
+Neymar,0.0, 1997.00,0.0,64,null,
+Neymar,0.0, 1998.00,0.0,63,null,
+Neymar,0.0, 1999.00,0.0,67,null,
+Neymar,0.0, 2000.00,0.0,67,null,
+Neymar,0.0, 2001.00,0.0,67,null,
+Neymar,0.0, 2002.00,0.0,65,null,
+Neymar,0.0, 2003.00,0.0,67,null,
+Neymar,0.0, 2004.00,0.0,68,null,
+Neymar,0.0, 2005.00,0.0,67,null,
+Neymar,0.0, 2006.00,0.0,66,null,
+Neymar,0.0, 2007.00,0.0,66,null,
+Neymar,0.0, 2008.00,0.0,66,null,
+Neymar,0.0, 2009.00,0.0,65,null,
+Neymar,0.0, 2010.00,0.0,66,null,
+Neymar,0.0, 2011.00,0.0,65,null,
+Neymar,0.0, 2012.00,0.0,67,null,
+Neymar,0.0, 2013.00,0.0,66,null,
+Neymar,0.0, 2014.00,0.0,66,null,
+Neymar,0.0, 2015.00,0.0,66,null,
+Neymar,0.0, 2016.00,0.0,66,null,
+Neymar,0.0, 2017.00,0.0,66,null,
+Neymar,90.0, 2018.00,0.0,78,null, 2018.00
+Neymar,105.0, 2019.00,90.0,80,null, 2019.00
+Cristiano Ronaldo,0.0, 1990.00,0.0,52,null,
+Cristiano Ronaldo,0.0, 1991.00,0.0,51,null,
+Cristiano Ronaldo,0.0, 1992.00,0.0,48,null,
+Cristiano Ronaldo,0.0, 1993.00,0.0,45,null,
+Cristiano Ronaldo,0.0, 1994.00,0.0,46,null,
+Cristiano Ronaldo,0.0, 1995.00,0.0,48,null,
+Cristiano Ronaldo,0.0, 1996.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 1997.00,0.0,47,null,
+Cristiano Ronaldo,0.0, 1998.00,0.0,46,null,
+Cristiano Ronaldo,0.0, 1999.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 2000.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 2001.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 2002.00,0.0,48,null,
+Cristiano Ronaldo,0.0, 2003.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 2004.00,0.0,51,null,
+Cristiano Ronaldo,0.0, 2005.00,0.0,50,null,
+Cristiano Ronaldo,0.0, 2006.00,0.0,49,null,
+Cristiano Ronaldo,0.0, 2007.00,0.0,49,null,
+Cristiano Ronaldo,0.0, 2008.00,0.0,49,null,
+Cristiano Ronaldo,0.0, 2009.00,0.0,48,null,
+Cristiano Ronaldo,0.0, 2010.00,0.0,49,null,
+Cristiano Ronaldo,38.0, 2011.00,0.0,76,null, 2011.00
+Cristiano Ronaldo,42.5, 2012.00,38.0,74,null, 2012.00
+Cristiano Ronaldo,44.0, 2013.00,42.5,74,null, 2013.00
+Cristiano Ronaldo,80.0, 2014.00,44.0,81,null, 2014.00
+Cristiano Ronaldo,79.6, 2015.00,80.0,80,null, 2014.00
+Cristiano Ronaldo,88.0, 2016.00,79.6,82,null, 2016.00
+Cristiano Ronaldo,93.0, 2017.00,88.0,82,null, 2017.00
+Cristiano Ronaldo,108.0, 2018.00,93.0,80,null, 2018.00
+Cristiano Ronaldo,109.0, 2019.00,108.0,81,null, 2019.00
+Lionel Messi,0.0, 1990.00,0.0,53,null,
+Lionel Messi,0.0, 1991.00,0.0,52,null,
+Lionel Messi,0.0, 1992.00,0.0,49,null,
+Lionel Messi,0.0, 1993.00,0.0,46,null,
+Lionel Messi,0.0, 1994.00,0.0,47,null,
+Lionel Messi,0.0, 1995.00,0.0,49,null,
+Lionel Messi,0.0, 1996.00,0.0,51,null,
+Lionel Messi,0.0, 1997.00,0.0,48,null,
+Lionel Messi,0.0, 1998.00,0.0,47,null,
+Lionel Messi,0.0, 1999.00,0.0,51,null,
+Lionel Messi,0.0, 2000.00,0.0,51,null,
+Lionel Messi,0.0, 2001.00,0.0,51,null,
+Lionel Messi,0.0, 2002.00,0.0,49,null,
+Lionel Messi,0.0, 2003.00,0.0,51,null,
+Lionel Messi,0.0, 2004.00,0.0,52,null,
+Lionel Messi,0.0, 2005.00,0.0,51,null,
+Lionel Messi,0.0, 2006.00,0.0,50,null,
+Lionel Messi,0.0, 2007.00,0.0,50,null,
+Lionel Messi,0.0, 2008.00,0.0,50,null,
+Lionel Messi,0.0, 2009.00,0.0,49,null,
+Lionel Messi,0.0, 2010.00,0.0,50,null,
+Lionel Messi,32.3, 2011.00,0.0,73,null, 2011.00
+Lionel Messi,0.0, 2012.00,32.3,72,null, 2011.00
+Lionel Messi,41.3, 2013.00,0.0,73,null, 2013.00
+Lionel Messi,64.7, 2014.00,41.3,79,null, 2014.00
+Lionel Messi,73.8, 2015.00,64.7,79,null, 2015.00
+Lionel Messi,81.4, 2016.00,73.8,81,null, 2016.00
+Lionel Messi,80.0, 2017.00,81.4,80,null, 2016.00
+Lionel Messi,111.0, 2018.00,80.0,81,null, 2018.00
+Lionel Messi,127.0, 2019.00,111.0,82,null, 2019.00
