@@ -1,8 +1,8 @@
 name,value,year,lastValue,rank,image,largeDate
 Greg Norman,8.5, 1990.00,8.5,75,upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Greg_Norman_2014.jpg/220px-Greg_Norman_2014.jpg, 1990.00
-Buster Douglas,26.0, 1990.00,26.0,80,https://m.media-amazon.com/images/M/MV5BMTgyZjJhZjUtMDdhMy00ZjliLThiMWItZTIwM2FkMjEzMDRiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg, 1990.00
-Donovan Razor Ruddock,0.0, 1990.00,0.0,2,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-Donovan Razor Ruddock,10.2, 1991.00,0.0,75,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png, 1991.00
+Buster Douglas,26.0, 1990.00,26.0,80,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg, 1990.00
+Donovan Razor Ruddock,0.0, 1990.00,0.0,2,boxing247.com/fotos/ruddock46464.jpg,
+Donovan Razor Ruddock,10.2, 1991.00,0.0,75,boxing247.com/fotos/ruddock46464.jpg, 1991.00
 Monica Seles,0.0, 1990.00,0.0,7,upload.wikimedia.org/wikipedia/commons/thumb/0/08/Monica_Seles_1999.jpg/220px-Monica_Seles_1999.jpg,
 Monica Seles,0.0, 1991.00,0.0,6,upload.wikimedia.org/wikipedia/commons/thumb/0/08/Monica_Seles_1999.jpg/220px-Monica_Seles_1999.jpg,
 Monica Seles,8.5, 1992.00,0.0,72,upload.wikimedia.org/wikipedia/commons/thumb/0/08/Monica_Seles_1999.jpg/220px-Monica_Seles_1999.jpg, 1992.00
@@ -26,16 +26,16 @@ Ayrton Senna,10.0, 1990.00,10.0,78,upload.wikimedia.org/wikipedia/commons/thumb/
 Ayrton Senna,13.0, 1991.00,10.0,77,upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ayrton_Senna_8_%28cropped%29.jpg/220px-Ayrton_Senna_8_%28cropped%29.jpg, 1991.00
 Ayrton Senna,22.0, 1992.00,13.0,79,upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ayrton_Senna_8_%28cropped%29.jpg/220px-Ayrton_Senna_8_%28cropped%29.jpg, 1992.00
 Ayrton Senna,18.5, 1993.00,22.0,79,upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ayrton_Senna_8_%28cropped%29.jpg/220px-Ayrton_Senna_8_%28cropped%29.jpg, 1992.00
-Nigel Mansell,0.0, 1990.00,0.0,3,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png,
-Nigel Mansell,9.0, 1991.00,0.0,73,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png, 1991.00
-Nigel Mansell,14.5, 1992.00,9.0,78,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png, 1992.00
-Nigel Mansell,0.0, 1993.00,14.5,70,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png, 1992.00
-Nigel Mansell,11.3, 1994.00,0.0,72,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png, 1992.00
-Michael Moorer,0.0, 1990.00,0.0,14,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png,
-Michael Moorer,0.0, 1991.00,0.0,13,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png,
-Michael Moorer,0.0, 1992.00,0.0,10,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png,
-Michael Moorer,0.0, 1993.00,0.0,7,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png,
-Michael Moorer,12.1, 1994.00,0.0,75,upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png, 1994.00
+Nigel Mansell,0.0, 1990.00,0.0,3,upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG/220px-Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG,
+Nigel Mansell,9.0, 1991.00,0.0,73,upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG/220px-Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG, 1991.00
+Nigel Mansell,14.5, 1992.00,9.0,78,upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG/220px-Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG, 1992.00
+Nigel Mansell,0.0, 1993.00,14.5,70,upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG/220px-Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG, 1992.00
+Nigel Mansell,11.3, 1994.00,0.0,72,upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG/220px-Nigel_Mansell_-_Mexican_Grand_Prix_01.JPG, 1992.00
+Michael Moorer,0.0, 1990.00,0.0,14,boxrec.com/media/images/thumb/3/3a/Michael_Moorer.jpg/200px-Michael_Moorer.jpg,
+Michael Moorer,0.0, 1991.00,0.0,13,boxrec.com/media/images/thumb/3/3a/Michael_Moorer.jpg/200px-Michael_Moorer.jpg,
+Michael Moorer,0.0, 1992.00,0.0,10,boxrec.com/media/images/thumb/3/3a/Michael_Moorer.jpg/200px-Michael_Moorer.jpg,
+Michael Moorer,0.0, 1993.00,0.0,7,boxrec.com/media/images/thumb/3/3a/Michael_Moorer.jpg/200px-Michael_Moorer.jpg,
+Michael Moorer,12.1, 1994.00,0.0,75,boxrec.com/media/images/thumb/3/3a/Michael_Moorer.jpg/200px-Michael_Moorer.jpg, 1994.00
 Gerhard Berger,0.0, 1990.00,0.0,12,upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gerhard_Berger_1991USA.jpg/220px-Gerhard_Berger_1991USA.jpg,
 Gerhard Berger,0.0, 1991.00,0.0,11,upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gerhard_Berger_1991USA.jpg/220px-Gerhard_Berger_1991USA.jpg,
 Gerhard Berger,0.0, 1992.00,0.0,8,upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gerhard_Berger_1991USA.jpg/220px-Gerhard_Berger_1991USA.jpg,
@@ -125,15 +125,15 @@ Patrick Ewing,0.0, 1995.00,0.0,16,upload.wikimedia.org/wikipedia/commons/thumb/5
 Patrick Ewing,12.9, 1996.00,0.0,73,upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ewing_on_court.jpg/275px-Ewing_on_court.jpg, 1996.00
 Patrick Ewing,0.0, 1997.00,12.9,69,upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ewing_on_court.jpg/275px-Ewing_on_court.jpg, 1996.00
 Patrick Ewing,18.3, 1998.00,0.0,74,upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ewing_on_court.jpg/275px-Ewing_on_court.jpg, 1998.00
-Sergei Federov,0.0, 1990.00,0.0,25,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1991.00,0.0,24,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1992.00,0.0,21,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1993.00,0.0,18,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1994.00,0.0,20,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1995.00,0.0,22,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1996.00,0.0,24,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,0.0, 1997.00,0.0,21,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Sergei Federov,29.8, 1998.00,0.0,79,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 1998.00
+Sergei Federov,0.0, 1990.00,0.0,25,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1991.00,0.0,24,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1992.00,0.0,21,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1993.00,0.0,18,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1994.00,0.0,20,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1995.00,0.0,22,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1996.00,0.0,24,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,0.0, 1997.00,0.0,21,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg,
+Sergei Federov,29.8, 1998.00,0.0,79,upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sergey_Fyodorov_for_Prosport.jpg/230px-Sergey_Fyodorov_for_Prosport.jpg, 1998.00
 Evander Holyfield,8.1, 1990.00,8.1,74,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1990.00
 Evander Holyfield,60.5, 1991.00,8.1,81,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1991.00
 Evander Holyfield,28.0, 1992.00,60.5,80,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1991.00
@@ -144,31 +144,31 @@ Evander Holyfield,15.5, 1996.00,0.0,76,upload.wikimedia.org/wikipedia/commons/th
 Evander Holyfield,54.3, 1997.00,15.5,80,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1991.00
 Evander Holyfield,0.0, 1998.00,54.3,71,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1991.00
 Evander Holyfield,35.5, 1999.00,0.0,77,upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Evander_Holyfield_LA_2011.jpg/220px-Evander_Holyfield_LA_2011.jpg, 1991.00
-Dale Earnhardt,0.0, 1990.00,0.0,22,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1991.00,0.0,21,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1992.00,0.0,18,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1993.00,0.0,15,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1994.00,0.0,17,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1995.00,0.0,19,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,0.0, 1996.00,0.0,21,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png,
-Dale Earnhardt,19.1, 1997.00,0.0,74,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png, 1997.00
-Dale Earnhardt,24.1, 1998.00,19.1,77,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png, 1998.00
-Dale Earnhardt,26.5, 1999.00,24.1,73,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png, 1999.00
-Dale Earnhardt,24.5, 2000.00,26.5,76,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png, 1999.00
-Dale Earnhardt,24.5, 2001.00,24.5,76,upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png, 1999.00
-previous year,0.0, 1990.00,0.0,28,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1991.00,0.0,27,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1992.00,0.0,24,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1993.00,0.0,21,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1994.00,0.0,23,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1995.00,0.0,25,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1996.00,0.0,27,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1997.00,0.0,24,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1998.00,0.0,23,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 1999.00,0.0,27,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 2000.00,0.0,27,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 2001.00,0.0,27,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
-previous year,0.0, 2002.00,0.0,28,upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png,
+Dale Earnhardt,0.0, 1990.00,0.0,22,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1991.00,0.0,21,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1992.00,0.0,18,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1993.00,0.0,15,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1994.00,0.0,17,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1995.00,0.0,19,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,0.0, 1996.00,0.0,21,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg,
+Dale Earnhardt,19.1, 1997.00,0.0,74,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg, 1997.00
+Dale Earnhardt,24.1, 1998.00,19.1,77,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg, 1998.00
+Dale Earnhardt,26.5, 1999.00,24.1,73,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg, 1999.00
+Dale Earnhardt,24.5, 2000.00,26.5,76,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg, 1999.00
+Dale Earnhardt,24.5, 2001.00,24.5,76,upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/220px-DaleEarnhardtSunglassesDriversSuit.jpg, 1999.00
+previous year,0.0, 1990.00,0.0,28,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1991.00,0.0,27,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1992.00,0.0,24,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1993.00,0.0,21,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1994.00,0.0,23,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1995.00,0.0,25,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1996.00,0.0,27,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1997.00,0.0,24,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1998.00,0.0,23,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 1999.00,0.0,27,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 2000.00,0.0,27,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 2001.00,0.0,27,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
+previous year,0.0, 2002.00,0.0,28,https://d2p3bygnnzw9w3.cloudfront.net/req/999999999/images/klecko/placeholder.jpg,
 Jeff Gordon,0.0, 1990.00,0.0,31,upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG/220px-Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG,
 Jeff Gordon,0.0, 1991.00,0.0,30,upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG/220px-Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG,
 Jeff Gordon,0.0, 1992.00,0.0,27,upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG/220px-Jeff_Gordon_at_the_2015_Daytona_500_%28cropped%29.JPG,
@@ -315,23 +315,23 @@ Tom Brady,0.0, 2003.00,0.0,39,upload.wikimedia.org/wikipedia/commons/thumb/b/b2/
 Tom Brady,0.0, 2004.00,0.0,39,upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/220px-Tom_Brady_2017.JPG,
 Tom Brady,0.0, 2005.00,0.0,38,upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/220px-Tom_Brady_2017.JPG,
 Tom Brady,29.0, 2006.00,0.0,72,upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/220px-Tom_Brady_2017.JPG, 2006.00
-Muhammad Ali,0.0, 1990.00,0.0,38,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1991.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1992.00,0.0,34,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1993.00,0.0,31,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1994.00,0.0,33,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1995.00,0.0,35,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1996.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1997.00,0.0,34,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1998.00,0.0,33,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 1999.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2000.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2001.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2002.00,0.0,35,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2003.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2004.00,0.0,37,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,0.0, 2005.00,0.0,36,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png,
-Muhammad Ali,55.0, 2006.00,0.0,79,upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png, 2006.00
+Muhammad Ali,0.0, 1990.00,0.0,38,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1991.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1992.00,0.0,34,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1993.00,0.0,31,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1994.00,0.0,33,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1995.00,0.0,35,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1996.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1997.00,0.0,34,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1998.00,0.0,33,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 1999.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2000.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2001.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2002.00,0.0,35,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2003.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2004.00,0.0,37,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,0.0, 2005.00,0.0,36,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg,
+Muhammad Ali,55.0, 2006.00,0.0,79,upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg, 2006.00
 Shaquille O'Neal,0.0, 1990.00,0.0,9,upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Shaquille_O%27Neal_in_2011_%28cropped%29.jpg/220px-Shaquille_O%27Neal_in_2011_%28cropped%29.jpg,
 Shaquille O'Neal,0.0, 1991.00,0.0,8,upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Shaquille_O%27Neal_in_2011_%28cropped%29.jpg/220px-Shaquille_O%27Neal_in_2011_%28cropped%29.jpg,
 Shaquille O'Neal,0.0, 1992.00,0.0,5,upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Shaquille_O%27Neal_in_2011_%28cropped%29.jpg/220px-Shaquille_O%27Neal_in_2011_%28cropped%29.jpg,
@@ -1025,35 +1025,35 @@ Matthew Stafford,0.0, 2015.00,0.0,66,upload.wikimedia.org/wikipedia/commons/thum
 Matthew Stafford,0.0, 2016.00,0.0,66,upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matt_stafford_2016.jpg/275px-Matt_stafford_2016.jpg,
 Matthew Stafford,0.0, 2017.00,0.0,66,upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matt_stafford_2016.jpg/275px-Matt_stafford_2016.jpg,
 Matthew Stafford,59.5, 2018.00,0.0,72,upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matt_stafford_2016.jpg/275px-Matt_stafford_2016.jpg, 2018.00
-Matt Ryan,0.0, 1990.00,0.0,57,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1991.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1992.00,0.0,53,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1993.00,0.0,50,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1994.00,0.0,52,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1995.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1996.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1997.00,0.0,53,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1998.00,0.0,52,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 1999.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2000.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2001.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2002.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2003.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2004.00,0.0,56,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2005.00,0.0,55,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2006.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2007.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2008.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2009.00,0.0,53,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2010.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2011.00,0.0,53,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2012.00,0.0,55,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,0.0, 2013.00,0.0,54,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png,
-Matt Ryan,43.8, 2014.00,0.0,72,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 2014.00
-Matt Ryan,0.0, 2015.00,43.8,71,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 2014.00
-Matt Ryan,0.0, 2016.00,0.0,71,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 2014.00
-Matt Ryan,0.0, 2017.00,0.0,71,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 2014.00
-Matt Ryan,67.3, 2018.00,0.0,73,upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png, 2018.00
+Matt Ryan,0.0, 1990.00,0.0,57,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1991.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1992.00,0.0,53,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1993.00,0.0,50,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1994.00,0.0,52,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1995.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1996.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1997.00,0.0,53,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1998.00,0.0,52,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 1999.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2000.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2001.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2002.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2003.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2004.00,0.0,56,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2005.00,0.0,55,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2006.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2007.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2008.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2009.00,0.0,53,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2010.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2011.00,0.0,53,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2012.00,0.0,55,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,0.0, 2013.00,0.0,54,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg,
+Matt Ryan,43.8, 2014.00,0.0,72,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg, 2014.00
+Matt Ryan,0.0, 2015.00,43.8,71,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg, 2014.00
+Matt Ryan,0.0, 2016.00,0.0,71,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg, 2014.00
+Matt Ryan,0.0, 2017.00,0.0,71,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg, 2014.00
+Matt Ryan,67.3, 2018.00,0.0,73,upload.wikimedia.org/wikipedia/commons/thumb/7/72/Matt_Ryan_2018.jpg/252px-Matt_Ryan_2018.jpg, 2018.00
 Conor McGregor,0.0, 1990.00,0.0,67,upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Conor_McGregor.jpg/220px-Conor_McGregor.jpg,
 Conor McGregor,0.0, 1991.00,0.0,66,upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Conor_McGregor.jpg/220px-Conor_McGregor.jpg,
 Conor McGregor,0.0, 1992.00,0.0,63,upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Conor_McGregor.jpg/220px-Conor_McGregor.jpg,
